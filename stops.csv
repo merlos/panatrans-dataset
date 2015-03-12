@@ -1,0 +1,334 @@
+id,name,lat,lon
+1,Hospital Santo Tomás,8.969822,-79.534384
+2,Estación 5 de Mayo,8.9623,-79.539685
+3,Marañón,8.96166,-79.538676
+4,Calle 26 Este,8.962774,-79.535135
+5,Hospital del Niño,8.968546,-79.53208
+6,Calle 41 Este,8.972305,-79.528567
+7,Parque Urracá,8.975189,-79.527309
+8,Aquilino de la Guardia,8.974719,-79.52108
+9,Calle 32 Este,8.966448,-79.532866
+10,del Hospital Nacional,8.972333,-79.532955
+11,Calle 45 Este,8.97585,-79.531596
+12,El Geriátrico,8.977883,-79.531054
+13,Avenida 4a Sur,8.978346,-79.52938
+14,Sol de la india,8.983113,-79.526695
+15,Plaza Concordia,8.984402,-79.525864
+16,Caja de Ahorros,8.98954,-79.522327
+17,Obarrio,8.992805,-79.520439
+18,Cruce Vista Hermosa,8.994342,-79.51936
+19,Furniture City,8.995678,-79.519488
+20,Mercadito Calidonia,8.963865,-79.539745
+21,Calle 28 Calidonia,8.966251,-79.539085
+22,Porras,8.970087,-79.536849
+23,IJA del Casino,8.972294,-79.536298
+24,Perejil,8.97302,-79.536369
+25,Martín Sosa,8.977241,-79.534883
+26,Calle 26 Este,8.962773,-79.535136
+27,Calle 32 Este,8.966448,-79.532867
+28,Calle 41 Este,8.972305,-79.528567
+29,Hospital del Niño,8.968546,-79.532081
+30,Parque Urracá,8.975188,-79.52731
+31,Aquilino de la Guardia,8.97472,-79.52108
+32,Multiplaza,8.986875,-79.51267
+33,Kyocera,8.987131,-79.509264
+34,Instituto Justo Arosemena,8.987696,-79.505137
+35,Atlapa,8.988168,-79.501488
+36,BNP via porras,8.994093,-79.501198
+37,Marbella (el pio pio),8.997703,-79.519845
+38,Marbella (super 99),8.998261,-79.520021
+39,Plaza Córdoba,9.001658,-79.520016
+40,Plaza Córdoba,9.002468,-79.520235
+41,El Ingenio,9.005754,-79.520142
+42,El Ingenio,9.006149,-79.520163
+43,El Ingenio,9.006108,-79.520593
+44,Entrada Club X,9.007658,-79.520584
+45,Santa María,9.020925,-79.529451
+46,Universidad Tecnológica,9.020108,-79.531804
+47,Villa las Fuentes,9.014914,-79.535285
+48,El Dorado,9.00979,-79.534532
+49,El Dorado,9.009606,-79.534154
+50,Plaza Mirage,9.006623,-79.533766
+51,Plaza Mirage,9.004984,-79.533122
+52,Power Club,9.002898,-79.533224
+53,Super 99 de Pribanco,9.000725,-79.533081
+54,la Alameda,8.998417,-79.53351
+55,Antiguo Depósito,8.996884,-79.533313
+56,Antiguo Depósito,8.996579,-79.533558
+57,La Loceria,8.993667,-79.534194
+58,La Loceria,8.993407,-79.534009
+59,Cervecería Nacional,8.989494,-79.533466
+60,Cervecería Nacional,8.989772,-79.533352
+61,La Nacional (Ruta Tumba Muerto),8.987881,-79.532984
+62,Viejo Veranillo,8.980559,-79.53662
+63,Viejo Veranillo,8.981222,-79.536772
+64,Universidad de Panamá,8.983862,-79.535514
+65,Universidad de Panamá,8.984657,-79.535371
+66,Loma la Pava,8.993094,-79.529762
+67,Loma la Pava,8.993183,-79.529991
+68,Multilaminas,8.996704,-79.527202
+69,Calle 64 Oeste,8.998716,-79.525729
+70,Calle 64 Oeste,8.999922,-79.5251
+71,Bethania,9.002335,-79.523359
+72,Bethania,9.002414,-79.523005
+73,Raenco,9.00456,-79.521718
+74,Raenco (Pueblo Nuevo),9.004494,-79.521492
+75,Sub Estación de Bethania,9.005226,-79.522406
+76,Yuyin Luzcando,9.007626,-79.522816
+77,Super 99 Bethania,9.011371,-79.525325
+78,Camino Real,9.009332,-79.527743
+79,IPHE,9.006746,-79.527867
+80,Calle 66 Oeste,9.004748,-79.526972
+81,Plaza Ágora,9.009879,-79.517995
+82,Escuela Manuel E. Amador,9.008552,-79.518834
+83,Edificio Cosmopolitan,9.012511,-79.517519
+84,Los Reyes Magos,9.013198,-79.517738
+85,Edificio Carnaval,9.016143,-79.51798
+86,Grainger,9.016716,-79.517595
+87,Transismica y Castilla de Oro,9.016963,-79.517288
+88,Miraflores,9.019971,-79.516463
+89,del Cementerio,9.021907,-79.514926
+90,Bandag,9.022575,-79.514466
+91,Estrella Azul,9.023147,-79.512884
+92,Estrella Azul,9.023527,-79.512615
+93,Gran Estación,9.028294,-79.507037
+94,Machetazo San Miguelito,9.029619,-79.506908
+95,del Hospital,9.031479,-79.50828
+96,Instituto Rubiano,9.036487,-79.506764
+97,Pan de Azúcar,9.038095,-79.507932
+98,Pan de Azúcar,9.039076,-79.508071
+99,Rodapán,9.040889,-79.50858
+100,Moya,9.042247,-79.508148
+101,San José,9.043925,-79.507804
+102,San José,9.044821,-79.507197
+103,Piquera de Rutas interna de Veranillo,9.047366,-79.507096
+104,Centro Comercial Los Andes,9.048903,-79.508126
+105,Centro Comercial Los Andes,9.049143,-79.508602
+106,Industrias de Buena Voluntad,9.051712,-79.509738
+107,Industrias de Buena Voluntad,9.05319,-79.509387
+108,Ojo de Agua,9.055802,-79.509405
+109,Ojo de Agua,9.055808,-79.509177
+110,Cruce San Isidro,9.063892,-79.511665
+111,San Isidro,9.064116,-79.511591
+112,la entrada de San Isidro (policlínica),9.064251,-79.511375
+113,la entrada de San Isidro (policlínica),9.064443,-79.511419
+114,Campo Verde,9.065665,-79.515146
+115,Campo Verde (Pozuelo),9.065361,-79.515695
+116,Banco Nacional de Panamá Milla 8,9.066455,-79.517255
+117,Milla 8,9.068751,-79.518559
+118,Milla 8,9.06878,-79.51892
+119,Villa Zaita,9.077264,-79.525802
+120,Villa Zaita,9.077456,-79.525562
+121,ULAPS,9.079611,-79.526494
+122,El Palmar,9.085418,-79.528113
+123,Las Lajas,9.088102,-79.531472
+124,Gonzalillo,9.094589,-79.532084
+125,Escuela Francisco Beckman,9.098908,-79.531933
+126,La Cabima,9.107696,-79.536525
+127,Meconsa,9.109895,-79.54154
+128,Meconsa,9.109593,-79.542019
+129,Judith,9.113368,-79.5433
+130,Judith,9.113097,-79.54343
+131,Escuela Melchor Lasso,9.116472,-79.544512
+132,Escuela Melchor Lasso,9.116361,-79.54469
+133,Calle 2da,9.118157,-79.544148
+134,Calle 4,9.121377,-79.54461
+135,Calle 4,9.121367,-79.544814
+136,Calle 7,9.123867,-79.544426
+137,Calle 7ma Alcalde Díaz,9.123613,-79.545699
+138,Santa Teresa,9.127002,-79.545456
+139,Ciudad Bolívar,9.129799,-79.547034
+140,MS Triqui,9.132944,-79.54895
+141,MS Valle Bolivariano,9.136069,-79.552549
+142,Ciudad El Amanecer,9.138654,-79.552689
+143,Altos Alcalde Díaz,9.124572,-79.551669
+144,Abarrotería Griselda,9.124666,-79.550118
+145,Corregiduria Alcalde Díaz,9.123866,-79.556959
+146,Iglesia Alcalde Díaz,9.121688,-79.557989
+147,Calle Las Tablas,9.120753,-79.557141
+148,Bomberos Alcalde Díaz,9.118682,-79.555207
+149,Calle José S. Guevara,9.116239,-79.55485
+150,Centro de Salud Alcalde Díaz,9.112464,-79.555666
+151,Entrada Alcalde Díaz,9.110371,-79.555558
+152,Alcalde Díaz,9.109937,-79.555577
+153,La Curva,9.114556,-79.567374
+154,La Esperanza,9.121268,-79.574142
+155,San Pablo,9.127259,-79.582203
+156,Villa Nueva,9.124993,-79.588141
+157,Entrada de San Vicente,9.122747,-79.596146
+158,Condado del Rey,9.024273,-79.524441
+159,Condado del Rey,9.024683,-79.524267
+160,Los Libertadores,9.025986,-79.52169
+161,Los Libertadores,9.026092,-79.520792
+162,La Universidad Santa María la Antigua,9.028635,-79.519676
+163,La Universidad Santa María la Antigua,9.029191,-79.519064
+164,Limajo,9.031259,-79.516891
+165,Artec,9.032216,-79.511847
+166,PARADA 1A,9.030175,-79.500029
+167,PARADA 8,9.031779,-79.500191
+168,Las 500,9.029105,-79.496679
+169,Severino Hernández,9.029375,-79.496319
+170,PARADA 3,9.031043,-79.491501
+171,PARADA 4,9.033615,-79.487419
+172,Carcel de mujeres,9.034632,-79.485318
+173,Plaza Conquistador,9.040092,-79.476884
+174,El Crisol,9.043713,-79.472095
+175,Los Pueblos,9.050451,-79.450237
+176,Barriada San Antonio,9.051751,-79.444928
+177,El Parador Pedregal,9.058428,-79.432504
+178,Balmoral,9.059138,-79.432578
+179,Xtra de Las Acacias,9.059952,-79.427848
+180,Inadeh-I,9.069504,-79.399846
+181,Inadeh-R,9.069713,-79.39895
+182,Torremolino,9.069318,-79.393001
+183,Aeropuerto,9.070877,-79.388317
+184,Aeropuerto,9.071421,-79.389046
+185,Pantanal,9.07361,-79.389218
+186,La Morada,9.077578,-79.386444
+187,Bomberos de Tocumen,9.080485,-79.385238
+188,Leones,9.082904,-79.384678
+189,Morelo,9.086725,-79.384407
+190,San Antonio,9.088537,-79.382303
+191,Calle Van Der Hans,9.089824,-79.380927
+192,Escuela Ricardo J. Alfaro,9.091611,-79.379155
+193,Calle Gelabert,9.093651,-79.377062
+194,Corregiduría Tocumen,9.096726,-79.375368
+195,Cruce de Tocumen,9.097675,-79.371012
+196,La Garceta,9.094686,-79.368058
+197,La Bajada,9.091265,-79.365893
+198,Centro Deportivo Cabuya,9.08896,-79.366113
+199,El Brillante,9.086805,-79.36627
+200,Escuela Emperatriz Taboada,9.082419,-79.366656
+201,Estacion Texaco,9.079352,-79.3673
+202,La Siesta-R,9.077362,-79.364613
+203,La Siesta-I,9.077079,-79.363893
+204,La Rotonda,9.078049,-79.361199
+205,El Coloso,9.078625,-79.359831
+206,Calle Colón-R,9.079478,-79.358144
+207,la Escuela La Siesta,9.079389,-79.35774
+208,MultiCarnes,9.07986,-79.356197
+209,Metro Bus Patio 24 de Diciembre,9.101971,-79.358088
+210,Colegio Nacional,8.959522,-79.542708
+211,Piquera de Buses Balboa y Diablo,8.961698,-79.541167
+212,Plaza 5 de Mayo,8.960551,-79.540442
+213,Abastos,8.965701,-79.546619
+214,Abastos,8.966148,-79.546623
+215,Policía Nacional,8.96563,-79.549224
+216,Policía Nacional,8.966086,-79.55137
+217,Avenida Samuel Lewis,8.989998,-79.516355
+218,Edificio Inteligente,8.984333,-79.516548
+219,HSBC,8.980594,-79.522846
+220,Plaza New York,8.982119,-79.520245
+221,Hospital América,9.000998,-79.516811
+222,Hospital América,9.001381,-79.516819
+223,ULACIT,9.004261,-79.51239
+224,12 de Octubre,9.009517,-79.506065
+225,Calle 92 Este-I,9.01458,-79.49931
+226,Calle 92 Este-R,9.014741,-79.498744
+227,Santa Elena,9.017539,-79.494524
+228,Escuela República de Haití,9.018599,-79.492671
+229,Escuela República de Haití,9.018762,-79.492795
+230,Monte Oscuro,9.02013,-79.491659
+231,Torres Vía España,9.021529,-79.490115
+232,Torres Vía España,9.021693,-79.489637
+233,El Balboa,9.02408,-79.486586
+234,Villa Lorena,9.027277,-79.481185
+235,Villa Lorena,9.027383,-79.481349
+236,Plaza Carolina,9.029621,-79.477315
+237,Campo Limbergh,9.032759,-79.474083
+238,Santa Clara,9.032605,-79.474403
+239,Santa Clara,9.034453,-79.473113
+240,Ciuada deportiva Irving Saladino,9.035131,-79.47242
+241,Estadio Rommel Fernández,9.036786,-79.470242
+242,La birra,9.037203,-79.469516
+243,San Pedro,9.038396,-79.464548
+244,Tabernaculo de la Fe,9.038484,-79.464803
+245,Llano Bonito 2,9.040783,-79.45894
+246,San Pedro,9.040612,-79.4598
+247,Llano Bonito 1,9.04198,-79.457265
+248,del Super Extra,9.044938,-79.451166
+249,Juan Díaz,9.046221,-79.445749
+250,Juan Díaz,9.048267,-79.439709
+251,J. J. Vallarino,9.055138,-79.434518
+252,Entrada de San Antonio,9.053173,-79.44407
+253,San Antonio,9.056001,-79.445652
+254,Iglesia San Antonio,9.058396,-79.447809
+255,Altos de Cerro Viento,9.060811,-79.448254
+256,Cerro Viento,9.064275,-79.44703
+257,Camino Real,9.068566,-79.446617
+258,Brisas Occidente,9.070892,-79.457689
+259,Las Arcadas,9.070326,-79.454095
+260,Camino Real,9.068567,-79.446617
+261,Calle 2 Occidente,9.069791,-79.46102
+262,Versalles,9.041739,-79.419737
+263,Calle Radial R,9.04121,-79.423422
+264,Calle Radial M,9.042227,-79.427483
+265,Calle Radial N,9.044483,-79.426593
+266,Calle Radial J,9.044769,-79.429919
+267,Concepción,9.046635,-79.434231
+268,Calle Radial B,9.048648,-79.436409
+269,Celio C,9.042852,-79.417418
+270,Calle Circunvalación,9.044544,-79.414507
+271,Ave. 1,9.047333,-79.410317
+272,Antigua Estacion de Buses de Don Bosco,9.047501,-79.410868
+273,Calle Escandinavos,9.047874,-79.410682
+274,Calle 7,9.049887,-79.411947
+275,Calle 6,9.05119,-79.414066
+276,Calle 5C,9.050623,-79.416861
+277,Los Sauces,9.052494,-79.41802
+278,Bello Horizonte,9.053554,-79.410499
+279,Parroquia Santa Rita,9.055068,-79.411401
+280,Los Caobos,9.058819,-79.413739
+281,Calle 3A,9.056704,-79.418073
+282,Calle 2,9.05914,-79.419548
+283,Colonias del Prado,9.061732,-79.415605
+284,Terremar,9.050215,-79.408321
+285,Villas de Don Bosco,9.04442,-79.408685
+286,Vereda 0,9.043562,-79.410135
+287,Vereda I,9.041797,-79.406994
+288,Mañanitas,9.07986,-79.399824
+289,Mañanitas,9.079733,-79.403719
+290,Las Mañanas,9.079723,-79.407516
+291,Los Nogales 2,9.0783,-79.41054
+292,Los Nogales,9.07717,-79.411496
+293,Santa Mónica,9.073545,-79.413482
+294,Parque Real,9.071714,-79.414264
+295,Estacion de Buses de Pedregal,9.067537,-79.420541
+296,San Joaquín,9.07007,-79.423974
+297,Rana de Oro,9.071375,-79.42657
+298,La Riviera,9.07023,-79.428288
+299,Villalobos,9.069625,-79.429071
+300,del Nazareno,9.064958,-79.431484
+301,Calle 140,9.063067,-79.430186
+302,Belén,9.082806,-79.397479
+303,Villa Belén,9.083621,-79.394787
+304,Las Trancas,9.085125,-79.391906
+305,Mañanitas Interna,9.086143,-79.389047
+306,Torrijos-Carter,9.07202,-79.489388
+307,El Mirador,9.075633,-79.491212
+308,Calle C-5,9.077349,-79.491346
+309,Estacion de Buses de Torrijos-Carter,9.078381,-79.492007
+310,Centro de Salud de Torrijos-Carter,9.080495,-79.491726
+311,Estación de Autobuses Santa Librada,9.080231,-79.493315
+312,Santa Librada,9.080543,-79.494253
+313,Santa Marta,9.078165,-79.496222
+314,Guandú,9.076322,-79.497037
+315,Calle C-10,9.07522,-79.498604
+316,Santa Librada 4 Etapa,9.07434,-79.500997
+317,Escuela Santa Librada,9.07345,-79.503163
+318,Caja de Ahorros,9.074225,-79.504452
+319,Santa Librada,9.072333,-79.505618
+320,Policlinica Generoso Guardia,9.071771,-79.505707
+321,Entrada del Valle de San Isidro,9.071045,-79.506367
+322,El Pueblito,9.069509,-79.505942
+323,Calle A,9.072466,-79.508218
+324,del Cruce de Santa Librada,9.074161,-79.508034
+325,Santa Librada 2 Etapa,9.075272,-79.509209
+326,Escuela Santiago de la Guardia,9.073636,-79.511339
+327,Santa Librada 3 Etapa,9.078023,-79.511581
+328,Santa Librada 7 Etapa,9.079569,-79.509644
+329,Calle Las Peras,9.076852,-79.507392
+330,5ª Etapa Santa Librada,9.078122,-79.506146
+331,Santa Rita,9.07646,-79.503712
+332,El Valle San Isidro,9.066776,-79.507295
+333,Piquera de El Valle de San Isidro,9.074966,-79.515154
