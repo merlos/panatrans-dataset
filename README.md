@@ -71,5 +71,11 @@ These are the formats:
 | updated_at    | DATE            | Date when the stop was last updated 
 
 
+# License
+
+__panantrans-dataset__ by __Juan M. Merlos__ is licensed under a __[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)__.
+
+![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
 
 
