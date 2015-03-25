@@ -55,7 +55,7 @@ These are the formats:
 | :------------:|:---------------:| ------------------------------------
 | id            | INT             | Unique identifier of the trip     
 | headsign      | STRING          | Some text to identify the trip                    
-| route_id      | INT			    | Route this trip belongs to
+| route_id      | INT			        | Route this trip belongs to
 | created_at    | DATE            | Date when the trip was created
 | updated_at    | DATE            | Date when the trip was last updated 
 
@@ -66,16 +66,13 @@ These are the formats:
 | id            | INT             | Unique identifier of the stop       
 | sequence      | INT             | sequence number of the stop on the trip.
 | trip_id       | STRING          | Id of the trip this sequence links                  
-| stop_id       | INT			    | Id of the stop this sequence links
+| stop_id       | INT			        | Id of the stop this sequence links
 | created_at    | DATE            | Date when the stop was created
 | updated_at    | DATE            | Date when the stop was last updated 
 
 
 # License
 
-__panantrans-dataset__ by __Juan M. Merlos__ is licensed under a __[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)__.
-
-![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
+__panatrans-dataset__ is made available under the __[Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)__. Any rights in individual contents of the database are licensed under the __[Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)__.
 
 
