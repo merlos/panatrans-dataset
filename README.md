@@ -45,7 +45,8 @@ These are the formats:
 | column        | type          | Description                         
 |:-------------:|:-------------:| ------------------------------------
 | id            | INT           | Unique identifier of the route       
-| name          | STRING        | Name of the route                   
+| name          | STRING        | Name of the route 
+| url           | STRING        | Web address with more information of the page (usually at mibus.com.pa)
 | created_at    | DATE          | Date when the route was created
 | updated_at    | DATE          | Date when the route was last updated 
 
