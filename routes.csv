@@ -1,198 +1,198 @@
-id,name
-1,Gran Estación - Vía España - Albrook
-2,24 de diciembre - Transístmica
-3,24 de diciembre - Transístmica - Albrook
-4,24 de diciembre - Transístmica - Cervecería Nacional
-5,24 de diciembre - Tumba Muerto
-6,24 de diciembre - Tumba Muerto - Albrook
-7,24 de diciembre - Tumba Muerto - Cervecería Nacional
-8,24 de diciembre - Vía España
-9,24 de diciembre - Vía España - Albrook
-10,24 de diciembre - Vía España - Plaza Concordia
-11,24 de diciembre interna - circular
-12,Albrook - Amador
-13,Albrook - Esclusas de Miraflores
-14,Albrook - Vía España - Balboa
-15,Alcalde Díaz - Corredor Norte - Albrook
-16,Alcalde Díaz - Transístmica
-17,Alcalde Díaz - Transístmica - Albrook
-18,Alcalde Díaz - Transístmica - Cervecería Nacional
-19,Alcalde Díaz - Vía España
-20,Alcalde Díaz - Vía España - Albrook
-21,Alcalde Díaz - Vía España - Plaza Concordia
-22,Calle 12 - Ave. B - Estación Marañón
-23,Chilibre - Autopista - Albrook
-24,Chilibre - Transístmica
-25,Chilibre - Transístmica - Albrook
-26,Chilibre Interno - Autopista - Albrook
-27,Chilibre Interno - Transístmica
-28,Chilibre Interno - Transístmica - Albrook
-29,Chilibre Interno - Transístmica - Cervecería Nacional
-30,Chorrillo - Estación Marañón
-31,Ciudad Bolívar - Corredor Norte - Albrook
-32,Ciudad Bolívar - Tumba Muerto
-33,Ciudad Bolívar - Tumba Muerto - Cervecería Nacional
-34,Ciudad del Saber - Albrook
-35,Concepción - Circular
-36,Concepción - Via España
-37,Concepción - Vía España - Albrook
-38,Concepción - Vía España - Plaza Concordia
-39,Corredor Norte - El Valle - Albrook
-40,Corredor Norte - Los Andes - Albrook
-41,Corredor Norte - Mano de Piedra - Albrook
-42,Corredor Norte - Torrijos Carter - Albrook
-43,Corredor Sur - Don Bosco - Mercado del Marisco
-44,Corredor Sur - Felipillo - Albrook
-45,Corredor Sur - Pacora - Albrook
-46,Corredor Sur - San Pedro - Ancón
-47,Don Bosco - Corredor Sur - Estación Marañón
-48,Don Bosco - Transístmica
-49,Don Bosco - Transístmica - Albrook
-50,Don Bosco - Transístmica - Cervecería Nacional
-51,Don Bosco - Vía España
-52,Don Bosco - Vía España - Albrook
-53,Don Bosco - Vía España - Plaza Concordia
-54,El Cangrejo - U. de Panamá - CSS
-55,El Chorrillo - Estación Marañón
-56,El Dorado - Bethania - Av. La Paz
-57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer
-58,El Valle - Corredor Norte - Albrook
-59,El Valle - Transístmica
-60,El Valle - Transístmica - Albrook
-61,El Valle - Transístmica - Cervecería Nacional
-62,El Valle - Vía España
-63,El Valle - Vía España - Albrook
-64,El Valle - Vía España - Plaza Concordia
-65,Estación del Metro de la Iglesia del Carmen – Universidad de Panamá – El Cangrejo
-66,Estación La Cabima - Alcalde Díaz - Ciudad Bolívar - Circular
-67,Estación La Cabima - Autopista - Albrook
-68,Estación La Cabima - Chilibre Interna - Circular
-69,Estación La Cabima - Corredor Norte - Abrook
-70,Estación La Cabima - Gran Estación
-71,Estación La Cabima - Transístmica - Directo - Albrook
-72,Estación La Cabima - Tumba Muerto - Directo - Albrook
-73,Estación La Cabima - Vía España - Directo - Albrook
-74,Estación Marañón - Albrook - Circular
-75,Estación Marañón - Teatro Balboa
-76,Estación Parador - Don Bosco - Corredor Sur - Estación Marañón
-77,Estación Parador - Llano Bonito - Corredor Sur - Estación Marañon
-78,Estación Parador - Vía España - Albrook
-79,Estación Vía Argentina – Plaza Edison – El Carmen
-80,Estación Vía Argentina – Vía Brasil – Punta Pacífica
-81,Felipillo - Corredor Sur - Albrook
-82,Felipillo - Vía España - Albrook
-83,Felipillo - Vía España - Plaza Concordia
-84,Gran Estación - Santa Librada - Torrijos Carter - Ruta Transfer
-85,Gran Estación - Torrijos Carter - Santa Librada - Ruta Transfer
-86,Gran Estación - Transístmica - Albrook
-87,La Doña - Corredor Sur - Albrook
-88,Los Andes - Corredor Norte - Albrook
-89,Los Andes - Tumba Muerto
-90,Los Andes - Tumba Muerto - Albrook
-91,Los Andes - Tumba Muerto - Cervecería Nacional
-92,Los Andes - Vía España
-93,Los Andes - Vía España - Albrook
-94,Los Andes - Vía España - Plaza Concordia
-95,Los Caobos - Corredor Sur - Estación Marañón
-96,Mañanitas - Corredor Sur - Albrook
-97,Mañanitas - Gran Estación
-98,Mañanitas - Hora Valle - Albrook
-99,Mañanitas - Tumba Muerto
-100,Mañanitas - Tumba Muerto - Cervecería Nacional
-101,Mañanitas - Tumba Muerto -Albrook
-102,Mañanitas - Vía España
-103,Mañanitas - Vía España - Albrook
-104,Mañanitas - Vía España - Plaza Concordia
-105,Mano de Piedra - Corredor Norte - Albrook
-106,Mano de Piedra - Transístmica
-107,Mano de Piedra - Transístmica - Albrook
-108,Mano de Piedra - Transístmica - Cervecería Nacional
-109,Mano de Piedra - Tumba Muerto - Albrook
-110,Mano de Piedra - Vía España
-111,Mano de Piedra - Vía España - Albrook
-112,Mano de Piedra - Vía España - Plaza Concordia
-113,Multiplaza - Cinta Costera - Mercado de Mariscos
-114,Pacora - Corredor Sur - Albrook
-115,Paitilla - Plaza Edison - Vía Brasil
-116,Panamá Viejo - Ave. Balboa
-117,Panamá Viejo - Ave. Balboa - Albrook
-118,Panamá Viejo - Ave. Balboa - Mercado de Mariscos
-119,Panamá Viejo - Vía Porras - Albrook
-120,Parque Real - Corredor Sur - Albrook
-121,Pedregal - Corredor Sur - Estación Marañón
-122,Pedregal - Corredor Sur - Melchi
-123,Pedregal - Transístmica
-124,Pedregal - Transístmica - Albrook
-125,Pedregal - Transístmica - Cervecería Nacional
-126,Pedregal - Tumba Muerto
-127,Pedregal - Tumba Muerto - Albrook
-128,Pedregal - Tumba Muerto - Cervecería Nacional
-129,Pedregal - Vía España
-130,Pedregal - Vía España - Albrook
-131,Pedregal - Vía España - Plaza Concordia
-132,Punta Pacífica - Vía Brasil - Estación Vía Argentina
-133,Ruta Transfer - Estación Parador - Don Bosco 
-134,Ruta Transfer - Estación Parador - Tumba Muerto - Albrook
-135,Ruta Transfer - Estación Parador - Vía España - Albrook
-136,Ruta Transfer - Estación Parador -Mañanitas
-137,Ruta Transfer - Estación Parador -Tocumen
-138,Ruta Transfer - Gran Estación - Transístmica - Albrook
-139,Ruta Transfer - Gran Estación - Vía España - Albrook
-140,Ruta Transfer - La Doña - Estación Parador
-141,San Antonio - Corredor Norte - Estación Marañón
-142,San Joaquín - Circular
-143,San Joaquín - Transístmica
-144,San Joaquín - Transístmica - Albrook
-145,San Joaquín - Transístmica - Cervecería Nacional
-146,San Joaquín - Vía España - Albrook
-147,San Joaquín - Vía España - Plaza Concordia
-148,San Pedro - Circular
-149,San Pedro - Corredor Sur - Estación Marañón
-150,San Pedro - Vía España
-151,San Pedro - Vía España - Albrook
-152,San Pedro - Vía España - Plaza Concordia
-153,Santa Librada - Corredor Norte - Albrook
-154,Santa Librada - Transístmica
-155,Santa Librada - Transístmica - Albrook
-156,Santa Librada - Transístmica - Cervecería Nacional
-157,Santa Librada - Tumba Muerto
-158,Santa Librada - Tumba Muerto - Albrook 
-159,Santa Librada - Tumba Muerto - Cervecería Nacional
-160,Santa Librada - Vía España
-161,Santa Librada - Vía España - Albrook
-162,Santa Librada - Vía España - Plaza Concordia
-163,Tocumen - Corredor Sur - Albrook
-164,Tocumen - Transístmica
-165,Tocumen - Transístmica - Albrook
-166,Tocumen - Transístmica - Cervecería Nacional
-167,Tocumen - Tumba Muerto
-168,Tocumen - Tumba Muerto - Albrook
-169,Tocumen - Tumba Muerto - Cervecería Nacional
-170,Tocumen - Vía España
-171,Tocumen - Vía España - Albrook
-172,Tocumen - Vía España - Plaza Concordia
-173,Torrijos Carter - Transístmica - Cervecería Nacional
-174,Torrijos Carter – Corredor Norte - Albrook
-175,Torrijos Carter – Transístmica
-176,Torrijos Carter – Transístmica - Albrook
-177,Torrijos Carter – Tumba Muerto
-178,Torrijos Carter – Tumba Muerto - Albrook
-179,Torrijos Carter – Tumba Muerto - Cervecería Nacional
-180,Torrijos Carter – Vía España
-181,Torrijos Carter – Vía España - Albrook
-182,Torrijos Carter – Vía España - Plaza Concordia
-183,Transfer - Alcalde Díaz - Gran Estación
-184,Transfer - Chilibre - Gran Estación 
-185,Veranillo - Transístmica
-186,Veranillo - Transístmica - Albrook
-187,Veranillo - Transístmica - Cervecería Nacional
-188,Veranillo - Tumba Muerto
-189,Veranillo - Tumba Muerto - Albrook
-190,Veranillo - Tumba Muerto - Cervecería Nacional
-191,Veranillo - Tumba Muerto - Directo - Albrook
-192,Veranillo - Vía España
-193,Veranillo - Vía España - Albrook
-194,Veranillo - Vía España - Plaza Concordia
-195,Vía España - Federico Boyd
-196,Villa Rica - 12 de Octubre - Vía Porras
-197,Villa Rica - Vía España
+id,name,url
+1,Gran Estación - Vía España - Albrook,http://www.mibus.com.pa/gran-estacion-via-espana-albrook/
+2,24 de diciembre - Transístmica,http://www.mibus.com.pa/24-de-diciembre-transistmica/
+3,24 de diciembre - Transístmica - Albrook,http://www.mibus.com.pa/24-de-diciembre-transistmica-albrook/
+4,24 de diciembre - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/24-de-diciembre-transistmica-cerveceria-nacional/
+5,24 de diciembre - Tumba Muerto,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto/
+6,24 de diciembre - Tumba Muerto - Albrook,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-albrook/
+7,24 de diciembre - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-cerveceria-nacional/
+8,24 de diciembre - Vía España,http://www.mibus.com.pa/24-de-diciembre-via-espana/
+9,24 de diciembre - Vía España - Albrook,http://www.mibus.com.pa/24-de-diciembre-via-espana-albrook/
+10,24 de diciembre - Vía España - Plaza Concordia,http://www.mibus.com.pa/24-de-diciembre-via-espana-plaza-concordia/
+11,24 de diciembre interna - circular,http://www.mibus.com.pa/24-de-diciembre-interna-circular/
+12,Albrook - Amador,http://www.mibus.com.pa/albrook-amador/
+13,Albrook - Esclusas de Miraflores,http://www.mibus.com.pa/albrook-esclusas-de-miraflores/
+14,Albrook - Vía España - Balboa,http://www.mibus.com.pa/albrook-via-espana-balboa/
+15,Alcalde Díaz - Corredor Norte - Albrook,http://www.mibus.com.pa/alcalde-diaz-corredor-norte-albrook/
+16,Alcalde Díaz - Transístmica,http://www.mibus.com.pa/alcalde-diaz-transistmica/
+17,Alcalde Díaz - Transístmica - Albrook,http://www.mibus.com.pa/alcalde-diaz-transistmica-albrook/
+18,Alcalde Díaz - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/alcalde-diaz-transistmica-cerveceria-nacional/
+19,Alcalde Díaz - Vía España,http://www.mibus.com.pa/alcalde-diaz-via-espana/
+20,Alcalde Díaz - Vía España - Albrook,http://www.mibus.com.pa/alcalde-diaz-via-espana-albrook/
+21,Alcalde Díaz - Vía España - Plaza Concordia,http://www.mibus.com.pa/alcalde-diaz-via-espana-plaza-concordia/
+22,Calle 12 - Ave. B - Estación Marañón,http://www.mibus.com.pa/calle-12-ave-b-estacion-maranon/
+23,Chilibre - Autopista - Albrook,http://www.mibus.com.pa/chilibre-autopista-albrook/
+24,Chilibre - Transístmica,http://www.mibus.com.pa/chilibre-transistmica/
+25,Chilibre - Transístmica - Albrook,http://www.mibus.com.pa/chilibre-transistmica-albrook/
+26,Chilibre Interno - Autopista - Albrook,http://www.mibus.com.pa/chilibre-interno-autopista-albrook/
+27,Chilibre Interno - Transístmica,http://www.mibus.com.pa/chilibre-interno-transistmica/
+28,Chilibre Interno - Transístmica - Albrook,http://www.mibus.com.pa/chilibre-interno-transistmica-albrook/
+29,Chilibre Interno - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/chilibre-interno-transistmica-cerveceria-nacional/
+30,Chorrillo - Estación Marañón,http://www.mibus.com.pa/el-chorrillo-estacion-maranon/
+31,Ciudad Bolívar - Corredor Norte - Albrook,http://www.mibus.com.pa/ciudad-bolivar-corredor-norte-albrook/
+32,Ciudad Bolívar - Tumba Muerto,http://www.mibus.com.pa/ciudad-bolivar-tumba-muerto/
+33,Ciudad Bolívar - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/ciudad-bolivar-tumba-muerto-cerveceria-nacional/
+34,Ciudad del Saber - Albrook,http://www.mibus.com.pa/ciudad-del-saber-albrook/
+35,Concepción - Circular,http://www.mibus.com.pa/concepcion-circular-2/
+36,Concepción - Via España,http://www.mibus.com.pa/concepcion-via-espana/
+37,Concepción - Vía España - Albrook,http://www.mibus.com.pa/concepcion-via-espana-albrook/
+38,Concepción - Vía España - Plaza Concordia,http://www.mibus.com.pa/concepcion-via-espana-plaza-concordia/
+39,Corredor Norte - El Valle - Albrook,http://www.mibus.com.pa/corredor-norte-el-valle-albrook/
+40,Corredor Norte - Los Andes - Albrook,http://www.mibus.com.pa/corredor-norte-los-andes-albrook/
+41,Corredor Norte - Mano de Piedra - Albrook,http://www.mibus.com.pa/corredor-norte-mano-de-piedra-albrook/
+42,Corredor Norte - Torrijos Carter - Albrook,http://www.mibus.com.pa/corredor-norte-torrijos-carter-albrook/
+43,Corredor Sur - Don Bosco - Mercado del Marisco,http://www.mibus.com.pa/corredor-sur-don-bosco-mercado-del-marisco/
+44,Corredor Sur - Felipillo - Albrook,http://www.mibus.com.pa/corredor-sur-felipillo-albrook/
+45,Corredor Sur - Pacora - Albrook,http://www.mibus.com.pa/corredor-sur-pacora-albrook/
+46,Corredor Sur - San Pedro - Ancón,http://www.mibus.com.pa/corredor-sur-san-pedro-ancon/
+47,Don Bosco - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/don-bosco-corredor-sur-estacion-maranon/
+48,Don Bosco - Transístmica,http://www.mibus.com.pa/don-bosco-transistmica/
+49,Don Bosco - Transístmica - Albrook,http://www.mibus.com.pa/don-bosco-transistmica-albrook-2/
+50,Don Bosco - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/don-bosco-transistmica-cerveceria-nacional/
+51,Don Bosco - Vía España,http://www.mibus.com.pa/don-bosco-via-espana/
+52,Don Bosco - Vía España - Albrook,http://www.mibus.com.pa/don-bosco-via-espana-albrook-2/
+53,Don Bosco - Vía España - Plaza Concordia,http://www.mibus.com.pa/don-bosco-via-espana-plaza-concordia/
+54,El Cangrejo - U. de Panamá - CSS,http://www.mibus.com.pa/el-cangrejo-u-de-panama-css/
+55,El Chorrillo - Estación Marañón,http://www.mibus.com.pa/estacion-maranon-el-chorrillo/
+56,El Dorado - Bethania - Av. La Paz,http://www.mibus.com.pa/el-dorado-bethania-av-la-paz/
+57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/
+58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/
+59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/
+60,El Valle - Transístmica - Albrook,http://www.mibus.com.pa/el-valle-transistmica-albrook/
+61,El Valle - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/el-valle-transistmica-cerveceria-nacional/
+62,El Valle - Vía España,http://www.mibus.com.pa/el-valle-via-espana/
+63,El Valle - Vía España - Albrook,http://www.mibus.com.pa/el-valle-via-espana-albrook/
+64,El Valle - Vía España - Plaza Concordia,http://www.mibus.com.pa/el-valle-via-espana-plaza-concordia/
+65,Estación del Metro de la Iglesia del Carmen – Universidad de Panamá – El Cangrejo,http://www.mibus.com.pa/estacion-del-metro-de-la-iglesia-del-carmen-universidad-de-panama-el-cangrejo/
+66,Estación La Cabima - Alcalde Díaz - Ciudad Bolívar - Circular,http://www.mibus.com.pa/estacion-la-cabima-alcalde-diaz-ciudad-bolivar-circular/
+67,Estación La Cabima - Autopista - Albrook,http://www.mibus.com.pa/estacion-la-cabima-autopista-albrook/
+68,Estación La Cabima - Chilibre Interna - Circular,http://www.mibus.com.pa/estacion-la-cabima-chilibre-interna-circular/
+69,Estación La Cabima - Corredor Norte - Abrook,http://www.mibus.com.pa/estacion-la-cabima-corredor-norte-abrook/
+70,Estación La Cabima - Gran Estación,http://www.mibus.com.pa/estacion-la-cabima-gran-estacion/
+71,Estación La Cabima - Transístmica - Directo - Albrook,http://www.mibus.com.pa/estacion-la-cabima-transistmica-directo-albrook/
+72,Estación La Cabima - Tumba Muerto - Directo - Albrook,http://www.mibus.com.pa/estacion-la-cabima-tumba-muerto-directo-albrook/
+73,Estación La Cabima - Vía España - Directo - Albrook,http://www.mibus.com.pa/estacion-la-cabima-via-espana-directo-albrook/
+74,Estación Marañón - Albrook - Circular,http://www.mibus.com.pa/estacion-maranon-albrook-circular/
+75,Estación Marañón - Teatro Balboa,http://www.mibus.com.pa/estacion-maranon-teatro-balboa/
+76,Estación Parador - Don Bosco - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/estacion-parador-don-bosco-corredor-sur-estacion-maranon/
+77,Estación Parador - Llano Bonito - Corredor Sur - Estación Marañon,http://www.mibus.com.pa/estacion-parador-llano-bonito-corredor-sur-estacion-maranon/
+78,Estación Parador - Vía España - Albrook,http://www.mibus.com.pa/estacion-parador-via-espana-albrook/
+79,Estación Vía Argentina – Plaza Edison – El Carmen,http://www.mibus.com.pa/estacion-via-argentina-plaza-edison-el-carmen/
+80,Estación Vía Argentina – Vía Brasil – Punta Pacífica,http://www.mibus.com.pa/estacion-via-argentina-via-brasil-punta-pacifica/
+81,Felipillo - Corredor Sur - Albrook,http://www.mibus.com.pa/felipillo-corredor-sur-albrook/
+82,Felipillo - Vía España - Albrook,http://www.mibus.com.pa/felipillo-via-espana-albrook/
+83,Felipillo - Vía España - Plaza Concordia,http://www.mibus.com.pa/felipillo-via-espana-plaza-concordia/
+84,Gran Estación - Santa Librada - Torrijos Carter - Ruta Transfer,http://www.mibus.com.pa/grran-estacion-santa-librada-torrijos-carter-ruta-transfer/
+85,Gran Estación - Torrijos Carter - Santa Librada - Ruta Transfer,http://www.mibus.com.pa/grran-estacion-torrijos-carter-santa-librada-ruta-transfer/
+86,Gran Estación - Transístmica - Albrook,http://www.mibus.com.pa/gran-estacion-transistmica-albrook/
+87,La Doña - Corredor Sur - Albrook,http://www.mibus.com.pa/corredor-sur-la-dona-albrook/
+88,Los Andes - Corredor Norte - Albrook,http://www.mibus.com.pa/los-andes-corredor-norte-albrook/
+89,Los Andes - Tumba Muerto,http://www.mibus.com.pa/los-andes-tumba-muerto/
+90,Los Andes - Tumba Muerto - Albrook,http://www.mibus.com.pa/los-andes-tumba-muerto-albrook/
+91,Los Andes - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/los-andes-tumba-muerto-cerveceria-nacional/
+92,Los Andes - Vía España,http://www.mibus.com.pa/los-andes-via-espana/
+93,Los Andes - Vía España - Albrook,http://www.mibus.com.pa/los-andes-via-espana-albrook/
+94,Los Andes - Vía España - Plaza Concordia,http://www.mibus.com.pa/los-andes-via-espana-plaza-concordia/
+95,Los Caobos - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/los-caobos-corredor-sur-estacion-maranon/
+96,Mañanitas - Corredor Sur - Albrook,http://www.mibus.com.pa/mananitas-corredor-sur-albrook-2/
+97,Mañanitas - Gran Estación,http://www.mibus.com.pa/mananitas-gran-estacion/
+98,Mañanitas - Hora Valle - Albrook,http://www.mibus.com.pa/mananitas-hora-valle-albrook/
+99,Mañanitas - Tumba Muerto,http://www.mibus.com.pa/mananitas-tumba-muerto/
+100,Mañanitas - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/mananitas-tumba-muerto-cerveceria-nacional/
+101,Mañanitas - Tumba Muerto -Albrook,http://www.mibus.com.pa/mananitas-tumba-muerto-albrook-2/
+102,Mañanitas - Vía España,http://www.mibus.com.pa/mananitas-via-espana/
+103,Mañanitas - Vía España - Albrook,http://www.mibus.com.pa/mananitas-via-espana-albrook/
+104,Mañanitas - Vía España - Plaza Concordia,http://www.mibus.com.pa/mananitas-via-espana-plaza-concordia/
+105,Mano de Piedra - Corredor Norte - Albrook,http://www.mibus.com.pa/mano-de-piedra-corredor-norte-albrook/
+106,Mano de Piedra - Transístmica,http://www.mibus.com.pa/mano-de-piedra-transistmica/
+107,Mano de Piedra - Transístmica - Albrook,http://www.mibus.com.pa/mano-de-piedra-transistmica-albrook/
+108,Mano de Piedra - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/mano-de-piedra-transistmica-cerveceria-nacional/
+109,Mano de Piedra - Tumba Muerto - Albrook,http://www.mibus.com.pa/mano-de-piedra-tumba-muerto-albrook/
+110,Mano de Piedra - Vía España,http://www.mibus.com.pa/mano-de-piedra-via-espana/
+111,Mano de Piedra - Vía España - Albrook,http://www.mibus.com.pa/mano-de-piedra-via-espana-albrook/
+112,Mano de Piedra - Vía España - Plaza Concordia,http://www.mibus.com.pa/mano-de-piedra-via-espana-plaza-concordia/
+113,Multiplaza - Cinta Costera - Mercado de Mariscos,http://www.mibus.com.pa/multiplaza-cinta-costera-mercado-de-mariscos/
+114,Pacora - Corredor Sur - Albrook,http://www.mibus.com.pa/pacora-corredor-sur-albrook/
+115,Paitilla - Plaza Edison - Vía Brasil,http://www.mibus.com.pa/paitilla-plaza-edison-via-brasil/
+116,Panamá Viejo - Ave. Balboa,http://www.mibus.com.pa/panama-viejo-ave-balboa/
+117,Panamá Viejo - Ave. Balboa - Albrook,http://www.mibus.com.pa/panama-viejo-ave-balboa-albrook/
+118,Panamá Viejo - Ave. Balboa - Mercado de Mariscos,http://www.mibus.com.pa/panama-viejo-ave-balboa-mercado-de-mariscos/
+119,Panamá Viejo - Vía Porras - Albrook,http://www.mibus.com.pa/panama-viejo-via-porras-albrook/
+120,Parque Real - Corredor Sur - Albrook,http://www.mibus.com.pa/parque-real-corredor-sur-albrook/
+121,Pedregal - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/pedregal-corredorsur-estacionmaranon/
+122,Pedregal - Corredor Sur - Melchi,http://www.mibus.com.pa/pedregal-corredor-sur-melchi/
+123,Pedregal - Transístmica,http://www.mibus.com.pa/pedregal-transistmica/
+124,Pedregal - Transístmica - Albrook,http://www.mibus.com.pa/pedregal-transistmica-albrook/
+125,Pedregal - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/pedregal-transistmica-cerveceria-nacional/
+126,Pedregal - Tumba Muerto,http://www.mibus.com.pa/pedregal-tumba-muerto/
+127,Pedregal - Tumba Muerto - Albrook,http://www.mibus.com.pa/pedregal-tumba-muerto-albrook/
+128,Pedregal - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/pedregal-tumba-muerto-cerveceria-nacional/
+129,Pedregal - Vía España,http://www.mibus.com.pa/pedregal-via-espana/
+130,Pedregal - Vía España - Albrook,http://www.mibus.com.pa/pedregal-via-espana-albrook/
+131,Pedregal - Vía España - Plaza Concordia,http://www.mibus.com.pa/pedregal-via-espana-plaza-concordia/
+132,Punta Pacífica - Vía Brasil - Estación Vía Argentina,http://www.mibus.com.pa/punta-pacifica-via-brasil-estacion-via-argentina/
+133,Ruta Transfer - Estación Parador - Don Bosco,http://www.mibus.com.pa/ruta-transfer-estacion-parador-don-bosco/
+134,Ruta Transfer - Estación Parador - Tumba Muerto - Albrook,http://www.mibus.com.pa/ruta-transfer-estacion-parador-tumba-muerto-albrook/
+135,Ruta Transfer - Estación Parador - Vía España - Albrook,http://www.mibus.com.pa/ruta-transfer-estacion-parador-via-espana-albrook/
+136,Ruta Transfer - Estación Parador -Mañanitas,http://www.mibus.com.pa/ruta-transfer-estacion-parador-mananitas/
+137,Ruta Transfer - Estación Parador -Tocumen,http://www.mibus.com.pa/ruta-transfer-estacion-parador-tocumen/
+138,Ruta Transfer - Gran Estación - Transístmica - Albrook,http://www.mibus.com.pa/ruta-transfer-gran-estacion-transistmica-albrook/
+139,Ruta Transfer - Gran Estación - Vía España - Albrook,http://www.mibus.com.pa/ruta-transfer-gran-estacion-via-espana-albrook/
+140,Ruta Transfer - La Doña - Estación Parador,http://www.mibus.com.pa/ruta-transfer-la-dona-estacion-parador/
+141,San Antonio - Corredor Norte - Estación Marañón,http://www.mibus.com.pa/san-antonio-corredor-norte-estacion-maranon/
+142,San Joaquín - Circular,http://www.mibus.com.pa/san-joaquin-circular/
+143,San Joaquín - Transístmica,http://www.mibus.com.pa/san-joaquin-transistmica/
+144,San Joaquín - Transístmica - Albrook,http://www.mibus.com.pa/san-joaquin-transistmica-albrook/
+145,San Joaquín - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/san-joaquin-transistmica-cerveceria-nacional/
+146,San Joaquín - Vía España - Albrook,http://www.mibus.com.pa/san-joaquin-via-espana-albrook/
+147,San Joaquín - Vía España - Plaza Concordia,http://www.mibus.com.pa/san-joaquin-via-espana-plaza-concordia/
+148,San Pedro - Circular,http://www.mibus.com.pa/san-pedro-circular/
+149,San Pedro - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/san-pedro-corredor-sur-estacion-maranon/
+150,San Pedro - Vía España,http://www.mibus.com.pa/san-pedro-via-espana/
+151,San Pedro - Vía España - Albrook,http://www.mibus.com.pa/san-pedro-via-espana-albrook/
+152,San Pedro - Vía España - Plaza Concordia,http://www.mibus.com.pa/san-pedro-via-espana-plaza-concordia/
+153,Santa Librada - Corredor Norte - Albrook,http://www.mibus.com.pa/santa-librada-corredor-norte-albrook/
+154,Santa Librada - Transístmica,http://www.mibus.com.pa/santa-librada-transistmica/
+155,Santa Librada - Transístmica - Albrook,http://www.mibus.com.pa/santa-librada-transistmica-albrook/
+156,Santa Librada - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/santalibrada-transistmica-cerveceria-nacional/
+157,Santa Librada - Tumba Muerto,http://www.mibus.com.pa/santa-librada-tumba-muerto/
+158,Santa Librada - Tumba Muerto - Albrook,http://www.mibus.com.pa/santa-librada-tumba-muerto-albrook/
+159,Santa Librada - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/santalibrada-tumba-muerto-cerveceria-nacional/
+160,Santa Librada - Vía España,http://www.mibus.com.pa/santa-librada-via-espana/
+161,Santa Librada - Vía España - Albrook,http://www.mibus.com.pa/santa-librada-via-espana-albrook/
+162,Santa Librada - Vía España - Plaza Concordia,http://www.mibus.com.pa/santa-librada-via-espana-plaza-concordia/
+163,Tocumen - Corredor Sur - Albrook,http://www.mibus.com.pa/tocumen-corredor-sur-albrook/
+164,Tocumen - Transístmica,http://www.mibus.com.pa/tocumen-transistmica/
+165,Tocumen - Transístmica - Albrook,http://www.mibus.com.pa/tocumen-transistmica-albrook/
+166,Tocumen - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/tocumen-transistmica-cerveceria-nacional/
+167,Tocumen - Tumba Muerto,http://www.mibus.com.pa/tocumen-tumba-muerto/
+168,Tocumen - Tumba Muerto - Albrook,http://www.mibus.com.pa/tocumen-tumba-muerto-albrook/
+169,Tocumen - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/tocumen-tumba-muerto-cerveceria-nacional/
+170,Tocumen - Vía España,http://www.mibus.com.pa/tocumen-via-espana/
+171,Tocumen - Vía España - Albrook,http://www.mibus.com.pa/tocumen-via-espana-albrook/
+172,Tocumen - Vía España - Plaza Concordia,http://www.mibus.com.pa/tocumen-viaespana-plaza-concordia/
+173,Torrijos Carter - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/torrijos-carter-transistmica-cerveceria-nacional/
+174,Torrijos Carter – Corredor Norte - Albrook,http://www.mibus.com.pa/torrijos-carter-corredor-norte-albrook/
+175,Torrijos Carter – Transístmica,http://www.mibus.com.pa/torrijos-carter-transistmica/
+176,Torrijos Carter – Transístmica - Albrook,http://www.mibus.com.pa/torrijos-carter-transistmica-albrook/
+177,Torrijos Carter – Tumba Muerto,http://www.mibus.com.pa/torrijos-carter-tumba-muerto/
+178,Torrijos Carter – Tumba Muerto - Albrook,http://www.mibus.com.pa/torrijos-carter-tumba-muerto-albrook/
+179,Torrijos Carter – Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/torrijos-carter-tumba-muerto-cerveceria-nacional/
+180,Torrijos Carter – Vía España,http://www.mibus.com.pa/torrijos-carter-via-espana/
+181,Torrijos Carter – Vía España - Albrook,http://www.mibus.com.pa/torrijos-carter-via-espana-albrook/
+182,Torrijos Carter – Vía España - Plaza Concordia,http://www.mibus.com.pa/torrijos-carter-via-espana-plaza-concordia/
+183,Transfer - Alcalde Díaz - Gran Estación ,http://www.mibus.com.pa/transfer-alcalde-diaz-gran-estacion/
+184,Transfer - Chilibre - Gran Estación,http://www.mibus.com.pa/transfer-chilibre-gran-estacion/
+185,Veranillo - Transístmica,http://www.mibus.com.pa/veranillo-transistmica/
+186,Veranillo - Transístmica - Albrook,http://www.mibus.com.pa/veranillo-transistmica-albrook/
+187,Veranillo - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/veranillo-transistmica-cerveceria-nacional/
+188,Veranillo - Tumba Muerto,http://www.mibus.com.pa/veranillo-tumba-muerto/
+189,Veranillo - Tumba Muerto - Albrook,http://www.mibus.com.pa/veranillo-tumba-muerto-albrook/
+190,Veranillo - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/veranillo-tumba-muerto-cerveceria-nacional/
+191,Veranillo - Tumba Muerto - Directo - Albrook,http://www.mibus.com.pa/veranillo-tumba-muerto-directo-albrook/
+192,Veranillo - Vía España,http://www.mibus.com.pa/veranillo-via-espana/
+193,Veranillo - Vía España - Albrook,http://www.mibus.com.pa/veranillo-via-espana-albrook/
+194,Veranillo - Vía España - Plaza Concordia,http://www.mibus.com.pa/veranillo-via-espana-plaza-concordia/
+195,Vía España - Federico Boyd,http://www.mibus.com.pa/via-espana-federico-boyd/
+196,Villa Rica - 12 de Octubre - Vía Porras,http://www.mibus.com.pa/villa-rica-12-de-octubre-via-porras-2/
+197,Villa Rica - Vía España,http://www.mibus.com.pa/villa-rica-via-espana/
