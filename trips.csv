@@ -1,3 +1,6 @@
 id,headsign,route_id,direction,created_at,updated_at
 1,Amador,12,0,2015-04-13 15:01:41 UTC,2015-04-13 15:01:41 UTC
 2,Albrook,12,1,2015-04-13 15:01:41 UTC,2015-04-13 15:01:41 UTC
+5,Esclusas de Miraflores,13,0,2015-04-13 17:15:12 UTC,2015-04-13 17:15:12 UTC
+6,Albrook,13,1,2015-04-13 17:15:12 UTC,2015-04-13 17:15:12 UTC
+8,Ciudad del Saber,34,0,2015-04-13 17:28:44 UTC,2015-04-13 17:28:44 UTC
