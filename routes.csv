@@ -1,6 +1,6 @@
 id,name,url,created_at,updated_at
 1,Gran Estación - Vía España - Albrook,http://www.mibus.com.pa/gran-estacion-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-2,24 de diciembre - Transístmica,http://www.mibus.com.pa/24-de-diciembre-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
+2,Transístmica - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-transistmica/,2015-04-07 02:27:17 UTC,2015-04-13 18:01:12 UTC
 3,24 de diciembre - Transístmica - Albrook,http://www.mibus.com.pa/24-de-diciembre-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 4,24 de diciembre - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/24-de-diciembre-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 5,24 de diciembre - Tumba Muerto,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -28,7 +28,6 @@ id,name,url,created_at,updated_at
 27,Chilibre Interno - Transístmica,http://www.mibus.com.pa/chilibre-interno-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 28,Chilibre Interno - Transístmica - Albrook,http://www.mibus.com.pa/chilibre-interno-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 29,Chilibre Interno - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/chilibre-interno-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-30,Chorrillo - Estación Marañón,http://www.mibus.com.pa/el-chorrillo-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 31,Ciudad Bolívar - Corredor Norte - Albrook,http://www.mibus.com.pa/ciudad-bolivar-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 32,Ciudad Bolívar - Tumba Muerto,http://www.mibus.com.pa/ciudad-bolivar-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 33,Ciudad Bolívar - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/ciudad-bolivar-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -53,7 +52,7 @@ id,name,url,created_at,updated_at
 52,Don Bosco - Vía España - Albrook,http://www.mibus.com.pa/don-bosco-via-espana-albrook-2/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 53,Don Bosco - Vía España - Plaza Concordia,http://www.mibus.com.pa/don-bosco-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 54,El Cangrejo - U. de Panamá - CSS,http://www.mibus.com.pa/el-cangrejo-u-de-panama-css/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-55,El Chorrillo - Estación Marañón,http://www.mibus.com.pa/estacion-maranon-el-chorrillo/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
+55,Estación Marañón - Chorrillo,http://www.mibus.com.pa/estacion-maranon-el-chorrillo/,2015-04-07 02:27:17 UTC,2015-04-13 23:02:54 UTC
 56,El Dorado - Bethania - Av. La Paz,http://www.mibus.com.pa/el-dorado-bethania-av-la-paz/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
