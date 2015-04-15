@@ -20,12 +20,10 @@ id,name,url,created_at,updated_at
 19,Alcalde Díaz - Vía España,http://www.mibus.com.pa/alcalde-diaz-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 20,Alcalde Díaz - Vía España - Albrook,http://www.mibus.com.pa/alcalde-diaz-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 21,Alcalde Díaz - Vía España - Plaza Concordia,http://www.mibus.com.pa/alcalde-diaz-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-22,Calle 12 - Ave. B - Estación Marañón,http://www.mibus.com.pa/calle-12-ave-b-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 23,Chilibre - Autopista - Albrook,http://www.mibus.com.pa/chilibre-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 24,Chilibre - Transístmica,http://www.mibus.com.pa/chilibre-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 25,Chilibre - Transístmica - Albrook,http://www.mibus.com.pa/chilibre-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 26,Chilibre Interno - Autopista - Albrook,http://www.mibus.com.pa/chilibre-interno-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-27,Chilibre Interno - Transístmica,http://www.mibus.com.pa/chilibre-interno-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 28,Chilibre Interno - Transístmica - Albrook,http://www.mibus.com.pa/chilibre-interno-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 29,Chilibre Interno - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/chilibre-interno-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 31,Ciudad Bolívar - Corredor Norte - Albrook,http://www.mibus.com.pa/ciudad-bolivar-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -51,9 +49,10 @@ id,name,url,created_at,updated_at
 51,Don Bosco - Vía España,http://www.mibus.com.pa/don-bosco-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 52,Don Bosco - Vía España - Albrook,http://www.mibus.com.pa/don-bosco-via-espana-albrook-2/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 53,Don Bosco - Vía España - Plaza Concordia,http://www.mibus.com.pa/don-bosco-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-54,El Cangrejo - U. de Panamá - CSS,http://www.mibus.com.pa/el-cangrejo-u-de-panama-css/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-55,Estación Marañón - Chorrillo,http://www.mibus.com.pa/estacion-maranon-el-chorrillo/,2015-04-07 02:27:17 UTC,2015-04-13 23:02:54 UTC
-56,El Dorado - Bethania - Av. La Paz,http://www.mibus.com.pa/el-dorado-bethania-av-la-paz/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
+55,Estación de Marañón - El Chorrillo,http://www.mibus.com.pa/estacion-maranon-el-chorrillo/,2015-04-07 02:27:17 UTC,2015-04-15 13:15:54 UTC
+56,El Dorado - Bethania - Avenida de La Paz,http://www.mibus.com.pa/el-dorado-bethania-av-la-paz/,2015-04-07 02:27:17 UTC,2015-04-15 14:24:48 UTC
+22,Estación de Marañón - Calle 12 - Avenida B,http://www.mibus.com.pa/calle-12-ave-b-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-15 13:41:03 UTC
+27,Transístmica - Chilibre Interno,http://www.mibus.com.pa/chilibre-interno-transistmica/,2015-04-07 02:27:17 UTC,2015-04-15 15:36:42 UTC
 57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -191,6 +190,5 @@ id,name,url,created_at,updated_at
 192,Veranillo - Vía España,http://www.mibus.com.pa/veranillo-via-espana/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 193,Veranillo - Vía España - Albrook,http://www.mibus.com.pa/veranillo-via-espana-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 194,Veranillo - Vía España - Plaza Concordia,http://www.mibus.com.pa/veranillo-via-espana-plaza-concordia/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
-195,Vía Brasil - Federico Boyd,http://www.mibus.com.pa/via-espana-federico-boyd/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 196,Villa Rica - 12 de Octubre - Vía Porras,http://www.mibus.com.pa/villa-rica-12-de-octubre-via-porras-2/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 197,Villa Rica - Vía España,http://www.mibus.com.pa/villa-rica-via-espana/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
