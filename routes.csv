@@ -14,7 +14,6 @@ id,name,url,created_at,updated_at
 13,Albrook - Esclusas de Miraflores,http://www.mibus.com.pa/albrook-esclusas-de-miraflores/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 14,Albrook - Vía España - Balboa,http://www.mibus.com.pa/albrook-via-espana-balboa/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 15,Alcalde Díaz - Corredor Norte - Albrook,http://www.mibus.com.pa/alcalde-diaz-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-16,Alcalde Díaz - Transístmica,http://www.mibus.com.pa/alcalde-diaz-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 17,Alcalde Díaz - Transístmica - Albrook,http://www.mibus.com.pa/alcalde-diaz-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 18,Alcalde Díaz - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/alcalde-diaz-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 19,Alcalde Díaz - Vía España,http://www.mibus.com.pa/alcalde-diaz-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -39,7 +38,6 @@ id,name,url,created_at,updated_at
 42,Corredor Norte - Torrijos Carter - Albrook,http://www.mibus.com.pa/corredor-norte-torrijos-carter-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 43,Corredor Sur - Don Bosco - Mercado del Marisco,http://www.mibus.com.pa/corredor-sur-don-bosco-mercado-del-marisco/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 44,Corredor Sur - Felipillo - Albrook,http://www.mibus.com.pa/corredor-sur-felipillo-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-45,Corredor Sur - Pacora - Albrook,http://www.mibus.com.pa/corredor-sur-pacora-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 46,Corredor Sur - San Pedro - Ancón,http://www.mibus.com.pa/corredor-sur-san-pedro-ancon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 47,Don Bosco - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/don-bosco-corredor-sur-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 48,Don Bosco - Transístmica,http://www.mibus.com.pa/don-bosco-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -53,6 +51,7 @@ id,name,url,created_at,updated_at
 22,Estación de Marañón - Calle 12 - Avenida B,http://www.mibus.com.pa/calle-12-ave-b-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-15 13:41:03 UTC
 27,Transístmica - Chilibre Interno,http://www.mibus.com.pa/chilibre-interno-transistmica/,2015-04-07 02:27:17 UTC,2015-04-15 15:36:42 UTC
 23,Albrook - Autopista - Chilibre,http://www.mibus.com.pa/chilibre-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-15 16:02:10 UTC
+16,Transístmica - Alcalde Díaz,http://www.mibus.com.pa/alcalde-diaz-transistmica/,2015-04-07 02:27:17 UTC,2015-04-16 19:13:58 UTC
 57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -110,7 +109,6 @@ id,name,url,created_at,updated_at
 111,Mano de Piedra - Vía España - Albrook,http://www.mibus.com.pa/mano-de-piedra-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 112,Mano de Piedra - Vía España - Plaza Concordia,http://www.mibus.com.pa/mano-de-piedra-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 113,Multiplaza - Cinta Costera - Mercado de Mariscos,http://www.mibus.com.pa/multiplaza-cinta-costera-mercado-de-mariscos/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-114,Pacora - Corredor Sur - Albrook,http://www.mibus.com.pa/pacora-corredor-sur-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 115,Paitilla - Plaza Edison - Vía Brasil,http://www.mibus.com.pa/paitilla-plaza-edison-via-brasil/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 116,Panamá Viejo - Ave. Balboa,http://www.mibus.com.pa/panama-viejo-ave-balboa/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 117,Panamá Viejo - Ave. Balboa - Albrook,http://www.mibus.com.pa/panama-viejo-ave-balboa-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -158,7 +156,6 @@ id,name,url,created_at,updated_at
 160,Santa Librada - Vía España,http://www.mibus.com.pa/santa-librada-via-espana/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 161,Santa Librada - Vía España - Albrook,http://www.mibus.com.pa/santa-librada-via-espana-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 162,Santa Librada - Vía España - Plaza Concordia,http://www.mibus.com.pa/santa-librada-via-espana-plaza-concordia/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
-163,Tocumen - Corredor Sur - Albrook,http://www.mibus.com.pa/tocumen-corredor-sur-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 164,Tocumen - Transístmica,http://www.mibus.com.pa/tocumen-transistmica/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 165,Tocumen - Transístmica - Albrook,http://www.mibus.com.pa/tocumen-transistmica-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 166,Tocumen - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/tocumen-transistmica-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
@@ -192,3 +189,5 @@ id,name,url,created_at,updated_at
 194,Veranillo - Vía España - Plaza Concordia,http://www.mibus.com.pa/veranillo-via-espana-plaza-concordia/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 196,Villa Rica - 12 de Octubre - Vía Porras,http://www.mibus.com.pa/villa-rica-12-de-octubre-via-porras-2/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 197,Villa Rica - Vía España,http://www.mibus.com.pa/villa-rica-via-espana/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
+163,Albrook - Corredor Sur - Tocumen,http://www.mibus.com.pa/tocumen-corredor-sur-albrook/,2015-04-07 02:27:18 UTC,2015-04-16 16:27:45 UTC
+114,Albrook  - Corredor Sur - Pacora,http://www.mibus.com.pa/pacora-corredor-sur-albrook/,2015-04-07 02:27:17 UTC,2015-04-16 19:38:07 UTC
