@@ -12,6 +12,10 @@ Related Projects that may interest you:
 1. __[panatrans-api](https://github.com/merlos/panatrans-api)__: API that makes usage of this dataset.
 2. __[panatrans-web](https://github.com/merlos/panatrans-web)__: A javascript web client and editor that makes usage of this API.
 
+# Conventions and docs
+
+In our __[Wiki](https://github.com/merlos/panatrans-dataset/wiki)__ you can find more about the naming conventions and the __[status of the dataset](https://github.com/merlos/panatrans-dataset/wiki/Estado-Rutas-Metrobus)__. Please, note that we write this documentation __in Spanish__.
+
 # THE Dataset
 
 This dataset is an extreme simplification of the [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) defined by Google. 
