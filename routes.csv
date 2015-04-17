@@ -10,8 +10,6 @@ id,name,url,created_at,updated_at
 9,24 de diciembre - Vía España - Albrook,http://www.mibus.com.pa/24-de-diciembre-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 10,24 de diciembre - Vía España - Plaza Concordia,http://www.mibus.com.pa/24-de-diciembre-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 11,24 de diciembre interna - circular,http://www.mibus.com.pa/24-de-diciembre-interna-circular/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-12,Albrook - Amador,http://www.mibus.com.pa/albrook-amador/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-13,Albrook - Esclusas de Miraflores,http://www.mibus.com.pa/albrook-esclusas-de-miraflores/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 14,Albrook - Vía España - Balboa,http://www.mibus.com.pa/albrook-via-espana-balboa/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 15,Alcalde Díaz - Corredor Norte - Albrook,http://www.mibus.com.pa/alcalde-diaz-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 17,Alcalde Díaz - Transístmica - Albrook,http://www.mibus.com.pa/alcalde-diaz-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -27,7 +25,6 @@ id,name,url,created_at,updated_at
 31,Ciudad Bolívar - Corredor Norte - Albrook,http://www.mibus.com.pa/ciudad-bolivar-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 32,Ciudad Bolívar - Tumba Muerto,http://www.mibus.com.pa/ciudad-bolivar-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 33,Ciudad Bolívar - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/ciudad-bolivar-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-34,Albrook - Ciudad del Saber,http://www.mibus.com.pa/ciudad-del-saber-albrook/,2015-04-07 02:27:17 UTC,2015-04-13 17:28:40 UTC
 35,Concepción - Circular,http://www.mibus.com.pa/concepcion-circular-2/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 36,Concepción - Via España,http://www.mibus.com.pa/concepcion-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 37,Concepción - Vía España - Albrook,http://www.mibus.com.pa/concepcion-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -50,8 +47,11 @@ id,name,url,created_at,updated_at
 56,El Dorado - Bethania - Avenida de La Paz,http://www.mibus.com.pa/el-dorado-bethania-av-la-paz/,2015-04-07 02:27:17 UTC,2015-04-15 14:24:48 UTC
 22,Estación de Marañón - Calle 12 - Avenida B,http://www.mibus.com.pa/calle-12-ave-b-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-15 13:41:03 UTC
 27,Transístmica - Chilibre Interno,http://www.mibus.com.pa/chilibre-interno-transistmica/,2015-04-07 02:27:17 UTC,2015-04-15 15:36:42 UTC
-23,Albrook - Autopista - Chilibre,http://www.mibus.com.pa/chilibre-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-15 16:02:10 UTC
+34,Ciudad del Saber - Albrook,http://www.mibus.com.pa/ciudad-del-saber-albrook/,2015-04-07 02:27:17 UTC,2015-04-17 15:03:43 UTC
 16,Transístmica - Alcalde Díaz,http://www.mibus.com.pa/alcalde-diaz-transistmica/,2015-04-07 02:27:17 UTC,2015-04-16 19:13:58 UTC
+12,Amador - Albrook,http://www.mibus.com.pa/albrook-amador/,2015-04-07 02:27:17 UTC,2015-04-17 15:02:26 UTC
+13,Esclusas de Miraflores - Albrook,http://www.mibus.com.pa/albrook-esclusas-de-miraflores/,2015-04-07 02:27:17 UTC,2015-04-17 15:02:44 UTC
+23,Chilibre - Autopista - Albrook,http://www.mibus.com.pa/chilibre-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-17 15:03:25 UTC
 57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -163,7 +163,6 @@ id,name,url,created_at,updated_at
 168,Tocumen - Tumba Muerto - Albrook,http://www.mibus.com.pa/tocumen-tumba-muerto-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 169,Tocumen - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/tocumen-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 170,Tocumen - Vía España,http://www.mibus.com.pa/tocumen-via-espana/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
-171,Tocumen - Vía España - Albrook,http://www.mibus.com.pa/tocumen-via-espana-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 172,Tocumen - Vía España - Plaza Concordia,http://www.mibus.com.pa/tocumen-viaespana-plaza-concordia/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 173,Torrijos Carter - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/torrijos-carter-transistmica-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 174,Torrijos Carter – Corredor Norte - Albrook,http://www.mibus.com.pa/torrijos-carter-corredor-norte-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
@@ -191,3 +190,4 @@ id,name,url,created_at,updated_at
 197,Villa Rica - Vía España,http://www.mibus.com.pa/villa-rica-via-espana/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 163,Albrook - Corredor Sur - Tocumen,http://www.mibus.com.pa/tocumen-corredor-sur-albrook/,2015-04-07 02:27:18 UTC,2015-04-16 16:27:45 UTC
 114,Albrook  - Corredor Sur - Pacora,http://www.mibus.com.pa/pacora-corredor-sur-albrook/,2015-04-07 02:27:17 UTC,2015-04-16 19:38:07 UTC
+171,Albrook - Vía España - Tocumen,http://www.mibus.com.pa/tocumen-via-espana-albrook/,2015-04-07 02:27:18 UTC,2015-04-17 13:05:55 UTC
