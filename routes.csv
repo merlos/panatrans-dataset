@@ -2,7 +2,6 @@ id,name,url,created_at,updated_at
 1,Gran Estación - Vía España - Albrook,http://www.mibus.com.pa/gran-estacion-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 2,Transístmica - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-transistmica/,2015-04-07 02:27:17 UTC,2015-04-13 18:01:12 UTC
 3,24 de diciembre - Transístmica - Albrook,http://www.mibus.com.pa/24-de-diciembre-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-4,24 de diciembre - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/24-de-diciembre-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 5,24 de diciembre - Tumba Muerto,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 6,24 de diciembre - Tumba Muerto - Albrook,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 7,24 de diciembre - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -52,6 +51,7 @@ id,name,url,created_at,updated_at
 12,Amador - Albrook,http://www.mibus.com.pa/albrook-amador/,2015-04-07 02:27:17 UTC,2015-04-17 15:02:26 UTC
 13,Esclusas de Miraflores - Albrook,http://www.mibus.com.pa/albrook-esclusas-de-miraflores/,2015-04-07 02:27:17 UTC,2015-04-17 15:02:44 UTC
 23,Chilibre - Autopista - Albrook,http://www.mibus.com.pa/chilibre-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-17 15:03:25 UTC
+4,Cervecería Nacional - Transístmica - 24 diciembre,http://www.mibus.com.pa/24-de-diciembre-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-24 20:56:38 UTC
 57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
