@@ -32,3 +32,5 @@ id,headsign,route_id,direction,created_at,updated_at
 46,Cervecería Nacional,4,0,2015-04-24 20:56:43 UTC,2015-04-24 20:56:43 UTC
 47,24 de diciembre,5,0,2015-04-24 20:57:48 UTC,2015-04-24 20:57:48 UTC
 48,Ciudad Bolívar,33,0,2015-04-24 21:06:37 UTC,2015-04-24 21:06:37 UTC
+49,Panamá Viejo,117,0,2015-04-25 23:05:23 UTC,2015-04-25 23:05:23 UTC
+50,Albrook,117,1,2015-04-25 23:05:23 UTC,2015-04-25 23:05:23 UTC
