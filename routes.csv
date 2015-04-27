@@ -11,7 +11,6 @@ id,name,url,created_at,updated_at
 17,Alcalde Díaz - Transístmica - Albrook,http://www.mibus.com.pa/alcalde-diaz-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 19,Alcalde Díaz - Vía España,http://www.mibus.com.pa/alcalde-diaz-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 20,Alcalde Díaz - Vía España - Albrook,http://www.mibus.com.pa/alcalde-diaz-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-21,Alcalde Díaz - Vía España - Plaza Concordia,http://www.mibus.com.pa/alcalde-diaz-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 24,Chilibre - Transístmica,http://www.mibus.com.pa/chilibre-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 25,Chilibre - Transístmica - Albrook,http://www.mibus.com.pa/chilibre-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 26,Chilibre Interno - Autopista - Albrook,http://www.mibus.com.pa/chilibre-interno-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -52,6 +51,7 @@ id,name,url,created_at,updated_at
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 18,Cervecería Nacional - Transístmica - Alcalde Díaz,http://www.mibus.com.pa/alcalde-diaz-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-27 20:21:57 UTC
 10,Plaza Concordia - Vía España - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-27 18:44:38 UTC
+21,Plaza Concordia  - Vía España - Alcalde Díaz,http://www.mibus.com.pa/alcalde-diaz-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-27 21:09:25 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 60,El Valle - Transístmica - Albrook,http://www.mibus.com.pa/el-valle-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 61,El Valle - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/el-valle-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
