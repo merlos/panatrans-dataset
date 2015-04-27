@@ -6,11 +6,9 @@ id,name,url,created_at,updated_at
 6,24 de diciembre - Tumba Muerto - Albrook,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 8,24 de diciembre - Vía España,http://www.mibus.com.pa/24-de-diciembre-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 9,24 de diciembre - Vía España - Albrook,http://www.mibus.com.pa/24-de-diciembre-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-10,24 de diciembre - Vía España - Plaza Concordia,http://www.mibus.com.pa/24-de-diciembre-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 11,24 de diciembre interna - circular,http://www.mibus.com.pa/24-de-diciembre-interna-circular/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 15,Alcalde Díaz - Corredor Norte - Albrook,http://www.mibus.com.pa/alcalde-diaz-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 17,Alcalde Díaz - Transístmica - Albrook,http://www.mibus.com.pa/alcalde-diaz-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-18,Alcalde Díaz - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/alcalde-diaz-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 19,Alcalde Díaz - Vía España,http://www.mibus.com.pa/alcalde-diaz-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 20,Alcalde Díaz - Vía España - Albrook,http://www.mibus.com.pa/alcalde-diaz-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 21,Alcalde Díaz - Vía España - Plaza Concordia,http://www.mibus.com.pa/alcalde-diaz-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -52,6 +50,8 @@ id,name,url,created_at,updated_at
 4,Cervecería Nacional - Transístmica - 24 diciembre,http://www.mibus.com.pa/24-de-diciembre-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-24 20:56:38 UTC
 57,El Poderoso - Cerro Batea - Mano de Piedra - Transfer,http://www.mibus.com.pa/el-poderoso-cerro-batea-mano-de-piedra-transfer/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 58,El Valle - Corredor Norte - Albrook,http://www.mibus.com.pa/el-valle-corredor-norte-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
+18,Cervecería Nacional - Transístmica - Alcalde Díaz,http://www.mibus.com.pa/alcalde-diaz-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-27 20:21:57 UTC
+10,Plaza Concordia - Vía España - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-27 18:44:38 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 60,El Valle - Transístmica - Albrook,http://www.mibus.com.pa/el-valle-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 61,El Valle - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/el-valle-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
