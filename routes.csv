@@ -22,12 +22,6 @@ id,name,url,created_at,updated_at
 36,Concepción - Via España,http://www.mibus.com.pa/concepcion-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 37,Concepción - Vía España - Albrook,http://www.mibus.com.pa/concepcion-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 38,Concepción - Vía España - Plaza Concordia,http://www.mibus.com.pa/concepcion-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-39,Corredor Norte - El Valle - Albrook,http://www.mibus.com.pa/corredor-norte-el-valle-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-40,Corredor Norte - Los Andes - Albrook,http://www.mibus.com.pa/corredor-norte-los-andes-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-42,Corredor Norte - Torrijos Carter - Albrook,http://www.mibus.com.pa/corredor-norte-torrijos-carter-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-43,Corredor Sur - Don Bosco - Mercado del Marisco,http://www.mibus.com.pa/corredor-sur-don-bosco-mercado-del-marisco/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-44,Corredor Sur - Felipillo - Albrook,http://www.mibus.com.pa/corredor-sur-felipillo-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-46,Corredor Sur - San Pedro - Ancón,http://www.mibus.com.pa/corredor-sur-san-pedro-ancon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 47,Don Bosco - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/don-bosco-corredor-sur-estacion-maranon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 48,Don Bosco - Transístmica,http://www.mibus.com.pa/don-bosco-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 49,Don Bosco - Transístmica - Albrook,http://www.mibus.com.pa/don-bosco-transistmica-albrook-2/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -116,7 +110,6 @@ id,name,url,created_at,updated_at
 123,Pedregal - Transístmica,http://www.mibus.com.pa/pedregal-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 124,Pedregal - Transístmica - Albrook,http://www.mibus.com.pa/pedregal-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 125,Pedregal - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/pedregal-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-126,Pedregal - Tumba Muerto,http://www.mibus.com.pa/pedregal-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 127,Pedregal - Tumba Muerto - Albrook,http://www.mibus.com.pa/pedregal-tumba-muerto-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 128,Pedregal - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/pedregal-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 129,Pedregal - Vía España,http://www.mibus.com.pa/pedregal-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -188,3 +181,4 @@ id,name,url,created_at,updated_at
 114,Pacora - Corredor Sur - Albrook,http://www.mibus.com.pa/pacora-corredor-sur-albrook/,2015-04-07 02:27:17 UTC,2015-04-17 15:28:10 UTC
 163,Tocumen - Corredor Sur - Albrook,http://www.mibus.com.pa/tocumen-corredor-sur-albrook/,2015-04-07 02:27:18 UTC,2015-04-17 15:28:25 UTC
 7,Cervecería Nacional - Tumba Muerto - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-27 14:24:31 UTC
+126,Pedregal - Tumba Muerto,http://www.mibus.com.pa/pedregal-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-28 14:38:19 UTC
