@@ -46,10 +46,8 @@ id,name,url,created_at,updated_at
 21,Plaza Concordia  - Vía España - Alcalde Díaz,http://www.mibus.com.pa/alcalde-diaz-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-27 21:09:25 UTC
 59,El Valle - Transístmica,http://www.mibus.com.pa/el-valle-transistmica/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 60,El Valle - Transístmica - Albrook,http://www.mibus.com.pa/el-valle-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-61,El Valle - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/el-valle-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 62,El Valle - Vía España,http://www.mibus.com.pa/el-valle-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 63,El Valle - Vía España - Albrook,http://www.mibus.com.pa/el-valle-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-64,El Valle - Vía España - Plaza Concordia,http://www.mibus.com.pa/el-valle-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 65,Estación del Metro de la Iglesia del Carmen – Universidad de Panamá – El Cangrejo,http://www.mibus.com.pa/estacion-del-metro-de-la-iglesia-del-carmen-universidad-de-panama-el-cangrejo/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 66,Estación La Cabima - Alcalde Díaz - Ciudad Bolívar - Circular,http://www.mibus.com.pa/estacion-la-cabima-alcalde-diaz-ciudad-bolivar-circular/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 67,Estación La Cabima - Autopista - Albrook,http://www.mibus.com.pa/estacion-la-cabima-autopista-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -95,14 +93,12 @@ id,name,url,created_at,updated_at
 107,Mano de Piedra - Transístmica - Albrook,http://www.mibus.com.pa/mano-de-piedra-transistmica-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 108,Mano de Piedra - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/mano-de-piedra-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 109,Mano de Piedra - Tumba Muerto - Albrook,http://www.mibus.com.pa/mano-de-piedra-tumba-muerto-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
+64,Plaza Concordia - Vía España - El Valle,http://www.mibus.com.pa/el-valle-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-28 21:27:32 UTC
 110,Mano de Piedra - Vía España,http://www.mibus.com.pa/mano-de-piedra-via-espana/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 111,Mano de Piedra - Vía España - Albrook,http://www.mibus.com.pa/mano-de-piedra-via-espana-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 112,Mano de Piedra - Vía España - Plaza Concordia,http://www.mibus.com.pa/mano-de-piedra-via-espana-plaza-concordia/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 113,Multiplaza - Cinta Costera - Mercado de Mariscos,http://www.mibus.com.pa/multiplaza-cinta-costera-mercado-de-mariscos/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 115,Paitilla - Plaza Edison - Vía Brasil,http://www.mibus.com.pa/paitilla-plaza-edison-via-brasil/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-116,Panamá Viejo - Ave. Balboa,http://www.mibus.com.pa/panama-viejo-ave-balboa/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-117,Panamá Viejo - Ave. Balboa - Albrook,http://www.mibus.com.pa/panama-viejo-ave-balboa-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
-118,Panamá Viejo - Ave. Balboa - Mercado de Mariscos,http://www.mibus.com.pa/panama-viejo-ave-balboa-mercado-de-mariscos/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 119,Panamá Viejo - Vía Porras - Albrook,http://www.mibus.com.pa/panama-viejo-via-porras-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 120,Parque Real - Corredor Sur - Albrook,http://www.mibus.com.pa/parque-real-corredor-sur-albrook/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
 121,Pedregal - Corredor Sur - Estación Marañón,http://www.mibus.com.pa/pedregal-corredorsur-estacionmaranon/,2015-04-07 02:27:17 UTC,2015-04-07 02:27:17 UTC
@@ -148,6 +144,7 @@ id,name,url,created_at,updated_at
 164,Tocumen - Transístmica,http://www.mibus.com.pa/tocumen-transistmica/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 165,Tocumen - Transístmica - Albrook,http://www.mibus.com.pa/tocumen-transistmica-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 166,Tocumen - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/tocumen-transistmica-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
+116,Panamá Viejo - Cinta Costera - Mercado de Mariscos,http://www.mibus.com.pa/panama-viejo-ave-balboa/,2015-04-07 02:27:17 UTC,2015-04-28 21:53:22 UTC
 167,Tocumen - Tumba Muerto,http://www.mibus.com.pa/tocumen-tumba-muerto/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 168,Tocumen - Tumba Muerto - Albrook,http://www.mibus.com.pa/tocumen-tumba-muerto-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 169,Tocumen - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/tocumen-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
@@ -182,3 +179,5 @@ id,name,url,created_at,updated_at
 7,Cervecería Nacional - Tumba Muerto - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-27 14:24:31 UTC
 126,Pedregal - Tumba Muerto,http://www.mibus.com.pa/pedregal-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-28 14:38:19 UTC
 187,Cervecería Nacional - Transístmica - Veranillo,http://www.mibus.com.pa/veranillo-transistmica-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-28 18:41:26 UTC
+61,Cervecería Nacional - Transístmica - El Valle,http://www.mibus.com.pa/el-valle-transistmica-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-28 21:05:46 UTC
+117,Panamá Viejo - Cinta Costera - Albrook,http://www.mibus.com.pa/panama-viejo-ave-balboa-albrook/,2015-04-07 02:27:17 UTC,2015-04-28 21:52:17 UTC
