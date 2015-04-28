@@ -167,7 +167,6 @@ id,name,url,created_at,updated_at
 184,Transfer - Chilibre - Gran Estación,http://www.mibus.com.pa/transfer-chilibre-gran-estacion/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 185,Veranillo - Transístmica,http://www.mibus.com.pa/veranillo-transistmica/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 186,Veranillo - Transístmica - Albrook,http://www.mibus.com.pa/veranillo-transistmica-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
-187,Veranillo - Transístmica - Cervecería Nacional,http://www.mibus.com.pa/veranillo-transistmica-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 188,Veranillo - Tumba Muerto,http://www.mibus.com.pa/veranillo-tumba-muerto/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 189,Veranillo - Tumba Muerto - Albrook,http://www.mibus.com.pa/veranillo-tumba-muerto-albrook/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
 190,Veranillo - Tumba Muerto - Cervecería Nacional,http://www.mibus.com.pa/veranillo-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-07 02:27:18 UTC
@@ -182,3 +181,4 @@ id,name,url,created_at,updated_at
 163,Tocumen - Corredor Sur - Albrook,http://www.mibus.com.pa/tocumen-corredor-sur-albrook/,2015-04-07 02:27:18 UTC,2015-04-17 15:28:25 UTC
 7,Cervecería Nacional - Tumba Muerto - 24 de diciembre,http://www.mibus.com.pa/24-de-diciembre-tumba-muerto-cerveceria-nacional/,2015-04-07 02:27:17 UTC,2015-04-27 14:24:31 UTC
 126,Pedregal - Tumba Muerto,http://www.mibus.com.pa/pedregal-tumba-muerto/,2015-04-07 02:27:17 UTC,2015-04-28 14:38:19 UTC
+187,Cervecería Nacional - Transístmica - Veranillo,http://www.mibus.com.pa/veranillo-transistmica-cerveceria-nacional/,2015-04-07 02:27:18 UTC,2015-04-28 18:41:26 UTC
