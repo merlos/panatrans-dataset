@@ -134,3 +134,5 @@ id,headsign,route_id,direction,created_at,updated_at
 159,Tocumen,168,0,2015-05-06 23:50:40 UTC,2015-05-06 23:50:40 UTC
 160,Albrook,168,1,2015-05-06 23:50:40 UTC,2015-05-06 23:50:40 UTC
 162,Estación del Metro de la Iglesia del Carmen,65,0,2015-05-07 01:13:44 UTC,2015-05-07 01:13:44 UTC
+163,Albrook,146,1,2015-05-07 14:45:00 UTC,2015-05-07 14:45:00 UTC
+164,San Joaquín,146,0,2015-05-07 14:45:00 UTC,2015-05-07 14:45:00 UTC
