@@ -142,3 +142,5 @@ id,headsign,route_id,direction,created_at,updated_at
 169,Cervecería Nacional,50,0,2015-06-06 01:42:21 UTC,2015-06-06 01:42:21 UTC
 170,Don Bosco,52,0,2015-06-06 02:17:38 UTC,2015-06-06 02:17:38 UTC
 171,Albrook,52,1,2015-06-06 02:17:38 UTC,2015-06-06 02:17:38 UTC
+172,Estación de Marañón,199,1,2015-08-16 21:14:23 UTC,2015-08-16 21:14:23 UTC
+173,Costa del Este,199,0,2015-08-16 21:14:23 UTC,2015-08-16 21:14:23 UTC
