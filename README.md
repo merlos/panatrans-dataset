@@ -80,4 +80,8 @@ These are the formats:
 
 __panatrans-dataset__ is made available under the __[Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)__. Any rights in individual contents of the database are licensed under the __[Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)__.
 
+When using panatrans-dataset, credits should be publicly available:  
+
+  _Panatrans-dataset © [www.panatrans.org](http://www.panatrans.org) contributors, distributed under [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)_
+
 
