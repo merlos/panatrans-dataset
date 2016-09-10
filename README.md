@@ -10,7 +10,7 @@ This project is based on the premise that open software and open data are keys o
 Panatrans is divided in four components:
 
 1. __[gtfs_api](https://github.com/merlos/panatrans-dataset)__: The data model. It is an implementation of the [GTFS Specification](https://developers.google.com/transit/gtfs/reference/) in ruby on rails as an engine.  
-2. __[panatrans-api]__ This project. It is the server side that populates a JSON API based on the data model of gtfs_api.
+2. __[panatrans-api](https://github.com/merlos/panatrans-api)__ This project. It is the server side that populates a JSON API based on the data model of gtfs_api.
 2. __[panatrans-web](https://github.com/merlos/panatrans-web)__: A javascript web client that makes usage of panatrans-api
 3. __[panatrans-dataset](https://github.com/merlos/panatrans-dataset)__: It is the GTFS feed of the Panamanian public transport.
 
