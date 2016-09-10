@@ -1,0 +1,346 @@
+route_id,service_id,trip_id,trip_headsign,trip_direction_id,shape_id
+1,mibus,trip_1,Directo-Albrook,0,shape_1
+2,mibus,trip_2,Transístmica-Alcalde Díaz,0,shape_2
+3,mibus,trip_3,Transístmica-Cervecería Nacional,0,shape_3
+4,mibus,trip_4,Transístmica-Alcade Díaz,0,shape_4
+5,mibus,trip_5,Alcalde Díaz-Estación Los Andes,0,shape_5
+6,mibus,trip_6,Estación Los Andes-Alcalde Díaz,0,shape_6
+7,mibus,trip_7,Ciudad Bolivar-Estación Los Andes,0,shape_7
+8,mibus,trip_8,Alcalde Díaz-Ciudad Bolivar,0,shape_8
+9,mibus,trip_9,Forestal-Albrook,0,shape_9
+10,mibus,trip_10,Forestal-Chilibre,0,shape_10
+11,mibus,trip_11,Directo-Albrook,0,shape_11
+12,mibus,trip_12,Transístmica-Chilibre,0,shape_12
+13,mibus,trip_13,Transístmica-Albrook,0,shape_13
+14,mibus,trip_14,Transístmica-Chilibre,0,shape_14
+15,mibus,trip_15,Transístmica-Cervecería Nacional,0,shape_15
+16,mibus,trip_16,Autopista-Albrook,0,shape_16
+17,mibus,trip_17,Autopista-Chilibre,0,shape_17
+18,mibus,trip_18,Autopista-Albrook,0,shape_18
+19,mibus,trip_19,Corredor Norte-Chilibre,0,shape_19
+20,mibus,trip_20,Corredor Norte-Chilibre,0,shape_20
+21,mibus,trip_21,Chilibre Pueblo-Estación Los Andes,0,shape_21
+22,mibus,trip_22,Estación Los Andes-Chilibre Pueblo,0,shape_22
+23,mibus,trip_23,Ciudad Bolivar-Estación Los Andes,0,shape_23
+24,mibus,trip_24,Estación Los Andes-Ciudad Bolivar,0,shape_24
+25,mibus,trip_25,Directo-Albrook,0,shape_25
+26,mibus,trip_26,Tumba Muerto-Ciudad Bolivar,0,shape_26
+27,mibus,trip_27,Tumba Muerto-Cervecería Nacional,0,shape_27
+28,mibus,trip_28,Tumba Muerto-Ciudad Bolivar,0,shape_28
+29,mibus,trip_29,Corredor Norte-Albrook,0,shape_29
+30,mibus,trip_30,Corredor Norte-Ciudad Bolivar,0,shape_30
+31,mibus,trip_31,Ciudad Bolivar-Circular,0,shape_31
+32,mibus,trip_32,El Valle-Estación Los Andes,0,shape_32
+33,mibus,trip_33,Estación Los Andes-El Valle,0,shape_33
+34,mibus,trip_34,Transístmica-Albrook,0,shape_34
+35,mibus,trip_35,Transístmica-El Valle,0,shape_35
+36,mibus,trip_36,Transístmica-Loma La Pava,0,shape_36
+37,mibus,trip_37,Transístmica-El Valle,0,shape_37
+38,mibus,trip_38,Corredor Norte-Albrook,0,shape_38
+39,mibus,trip_39,Corredor Norte-El Valle,0,shape_39
+40,mibus,trip_40,Chilibre interno-Circular,0,shape_40
+41,mibus,trip_41,Directo-Albrook,0,shape_41
+42,mibus,trip_42, Directo-Albrook,0,shape_42
+43,mibus,trip_43,Corredor Norte-Albrook,0,shape_43
+44,mibus,trip_44,Autopista-Albrook,0,shape_44
+45,mibus,trip_45,Autopista-Estación La Cabima,0,shape_45
+46,mibus,trip_46,Autopista-Estación La Cabima,0,shape_46
+47,mibus,trip_47,Estación La Cabima-Estación Los Andes,0,shape_47
+48,mibus,trip_48,Estación Los Andes-Estación La Cabima,0,shape_48
+49,mibus,trip_49,Transístmica-Albrook,0,shape_49
+50,mibus,trip_50,Transístmica-Estación Los Andes,0,shape_50
+51,mibus,trip_51,Estación Los Andes-Estación Parador,0,shape_51
+52,mibus,trip_52,Estación Los Andes-Estación Parador,0,shape_52
+53,mibus,trip_53,Directo-Albrook,0,shape_53
+54,mibus,trip_54,Tumba Muerto-Estación Los Andes,0,shape_54
+55,mibus,trip_55,Directo-Albrook,0,shape_55
+56,mibus,trip_56,Vía España-Estación Los Andes,0,shape_56
+57,mibus,trip_57,Vía España-Albrook,0,shape_57
+58,mibus,trip_58,Vía España-Estación Los Andes,0,shape_58
+59,mibus,trip_59,Estación San Isidro-El Valle,0,shape_59
+60,mibus,trip_60,Santa Librada-Estación San Isidro,0,shape_60
+61,mibus,trip_61,Santa Librada-Estación San Isidro,0,shape_61
+62,mibus,trip_62,Estación Torrijos Carter-Estación San Isidro,0,shape_62
+63,mibus,trip_63,Estación Torrijos Carter-Estación San Isidro,0,shape_63
+64,mibus,trip_64,Mano de Piedra-Estación San Isidro,0,shape_64
+65,mibus,trip_65,Mano de Piedra-Estación San Isidro,0,shape_65
+66,mibus,trip_66,Alcalde Díaz-Estación San Isidro,0,shape_66
+67,mibus,trip_67,Estación San Isidro-Alcalde Díaz,0,shape_67
+68,mibus,trip_68,Ciudad Bolivar-Estación San Isidro,0,shape_68
+69,mibus,trip_69,Estación San Isidro-Ciudad Bolivar,0,shape_69
+70,mibus,trip_70,Chilibre Pueblo-Estación San Isidro,0,shape_70
+71,mibus,trip_71,Estación San Isidro-Chilibre Pueblo,0,shape_71
+72,mibus,trip_72,Estación La Cabima-Estación San Isidro,0,shape_72
+73,mibus,trip_73,Estación San Isidro-Estación La Cabima,0,shape_73
+74,mibus,trip_74,Tumba Muerto-Albrook,0,shape_74
+75,mibus,trip_75,Tumba Muerto- Los Andes,0,shape_75
+76,mibus,trip_76,Tumba Muerto-Cervecería Nacional,0,shape_76
+77,mibus,trip_77,Tumba Muerto- Los Andes,0,shape_77
+78,mibus,trip_78,Los Andes,0,shape_78
+79,mibus,trip_79,Mano de Piedra-Estación Los Andes,0,shape_79
+80,mibus,trip_80,Estación Los Andes-Mano de Piedra,0,shape_80
+81,mibus,trip_81,Transístmica-Albrook,0,shape_81
+82,mibus,trip_82,Transístmica-Mano de Piedra,0,shape_82
+83,mibus,trip_83,Transístmica-Loma La Pava,0,shape_83
+84,mibus,trip_84,Transístmica-Mano de Piedra,0,shape_84
+85,mibus,trip_85,TK-Estación Marañon,0,shape_85
+86,mibus,trip_86,Tumba Muerto-Albrook,0,shape_86
+87,mibus,trip_87,Tumba Muerto-Mano de Piedra,0,shape_87
+88,mibus,trip_88,Tumba Muerto-Cervecería Nacional,0,shape_88
+89,mibus,trip_89,Tumba Muerto-Mano de Piedra,0,shape_89
+90,mibus,trip_90,Corredor Norte-Albrook,0,shape_90
+91,mibus,trip_91,Corredor Norte-Mano de Piedra,0,shape_91
+92,mibus,trip_92,Corredor Norte-Mano de Piedra,0,shape_92
+93,mibus,trip_93,Santa Librada-Estación Los Andes,0,shape_93
+94,mibus,trip_94,Estación Los Andes-santa Librada,0,shape_94
+95,mibus,trip_95,Transístmica-Albrook,0,shape_95
+96,mibus,trip_96,Transístmica-Santa Librada,0,shape_96
+97,mibus,trip_97,Transístmica-Santa Librada,0,shape_97
+98,mibus,trip_98,Tumba Muerto-Albrook,0,shape_98
+99,mibus,trip_99,Tumba Muerto-Santa Librada,0,shape_99
+100,mibus,trip_100,Tumba Muerto-Cervecería Nacional,0,shape_100
+101,mibus,trip_101,Tumba Muerto-Santa Librada,0,shape_101
+102,mibus,trip_102,Tumba Muerto-Estación Marañon,0,shape_102
+103,mibus,trip_103,Tumba Muerto-Santa Librada,0,shape_103
+104,mibus,trip_104,Corredor Norte-Albrook,0,shape_104
+105,mibus,trip_105,Corredor Norte-Santa Librada,0,shape_105
+106,mibus,trip_106,Corredor Norte-Albrook,0,shape_106
+107,mibus,trip_107,Corredor Norte-Santa Librada,0,shape_107
+108,mibus,trip_108,Transimica-Estación Marañon,0,shape_108
+109,mibus,trip_109,Transimica-Estación Marañon,0,shape_109
+110,mibus,trip_110,Tumba Muerto-Estación Marañon,0,shape_110
+111,mibus,trip_111,Transístmica-Estación Marañon,0,shape_111
+112,mibus,trip_112,Tumba Muerto-Estación Marañon,0,shape_112
+113,mibus,trip_113,Directo-AlbrooK,0,shape_113
+114,mibus,trip_114,Estación Torrijos Carter-Estación Los Andes,0,shape_114
+115,mibus,trip_115,Estación Los Andes-Estación Torrijos Carter,0,shape_115
+116,mibus,trip_116,El Poderoso-Gran Estación,0,shape_116
+117,mibus,trip_117,Transístmica-Albrook,0,shape_117
+118,mibus,trip_118,Transístmica-Torrijos Carter,0,shape_118
+119,mibus,trip_119,Transístmica-Loma La Pava,0,shape_119
+120,mibus,trip_120,Transístmica-Torrijos Carter,0,shape_120
+121,mibus,trip_121,Transístmica-Estación Marañon,0,shape_121
+122,mibus,trip_122,Tumba Muerto-Albrook,0,shape_122
+123,mibus,trip_123,Tumba Muerto-Torrijos Carter,0,shape_123
+124,mibus,trip_124,Tumba Muerto-Cervecería Nacional,0,shape_124
+125,mibus,trip_125,Tumba Muerto-Torrijos Carte,0,shape_125
+126,mibus,trip_126,Antiguo Deposito-R,0,shape_126
+127,mibus,trip_127,Tumba Muerto-Estación Marañon,0,shape_127
+128,mibus,trip_128,Tumba Muerto-Torrijos Carter,0,shape_128
+129,mibus,trip_129,Corredor Norte-Albrook,0,shape_129
+130,mibus,trip_130,Corredor Norte-Torrijos Carter,0,shape_130
+131,mibus,trip_131,Corredor Norte-Torrijos Carter,0,shape_131
+132,mibus,trip_132,Ave Balboa-Mercado de Mariscos,0,shape_132
+133,mibus,trip_133,Vía Israel-Veranillo,0,shape_133
+134,mibus,trip_134,Transístmica-Albrook,0,shape_134
+135,mibus,trip_135,Transístmica-Veranillo,0,shape_135
+136,mibus,trip_136,Transístmica-Estación Marañon,0,shape_136
+137,mibus,trip_137,Transístmica-Veranillo,0,shape_137
+138,mibus,trip_138,Directo-Albrook,0,shape_138
+139,mibus,trip_139,Tumba Muerto-Veranillo,0,shape_139
+140,mibus,trip_140,Tumba Muerto-Cervecería Nacional,0,shape_140
+141,mibus,trip_141,Tumba Muerto-Veranillo,0,shape_141
+142,mibus,trip_142,Veranillo-Puente El Balboa,0,shape_142
+143,mibus,trip_143,Directo-Albrook,0,shape_143
+144,mibus,trip_144,Vía España-Veranillo,0,shape_144
+145,mibus,trip_145,Vía España-Estación Iglesia del Carmen,0,shape_145
+146,mibus,trip_146,Vía España-Veranillo,0,shape_146
+147,mibus,trip_147,Transístmica-Albrook,0,shape_147
+148,mibus,trip_148,Directo-Albrook,0,shape_148
+149,mibus,trip_149,Directo-Albrook,0,shape_149
+150,mibus,trip_150,Coredor Sur-Estación Marañon,0,shape_150
+151,mibus,trip_151,Costa del Este-24 de Diciembre,0,shape_151
+152,mibus,trip_152,Coredor Sur-Parque Urraca,0,shape_152
+153,mibus,trip_153,Costa del Este-24 de Diciembre,0,shape_153
+154,mibus,trip_154,Transístmica-Albrook,0,shape_154
+155,mibus,trip_155,Transístmica-24 de Diciembre,0,shape_155
+156,mibus,trip_156,Vía España-Albrook,0,shape_156
+157,mibus,trip_157,Vía España-24 de Diciembre,0,shape_157
+158,mibus,trip_158,24 de Diciembre-La Doña,0,shape_158
+159,mibus,trip_159,24 de Diciembre-Estación Los Pueblos,0,shape_159
+160,mibus,trip_160,Corredor Sur-Albrook,0,shape_160
+161,mibus,trip_161,Corredor Sur-24 de Diciembre,0,shape_161
+162,mibus,trip_162,Corredor Sur-La Doña,0,shape_162
+163,mibus,trip_163,Corredor Sur-Estación Marañon,0,shape_163
+164,mibus,trip_164,Corredor Sur-Estación Marañon,0,shape_164
+165,mibus,trip_165,"",0,shape_165
+166,mibus,trip_166,Directo-Albrook,0,shape_166
+167,mibus,trip_167,Vía España-Concepción,0,shape_167
+168,mibus,trip_168,Don Bosco-Estación Los Pueblos,0,shape_168
+169,mibus,trip_169,Transístmica-Albrook,0,shape_169
+170,mibus,trip_170,Transístmica-Don Bosco,0,shape_170
+171,mibus,trip_171,Transístmica-Loma La Pava,0,shape_171
+172,mibus,trip_172,Transístmica-Bosco Caobos,0,shape_172
+173,mibus,trip_173,Transístmica-Bosco Caobos,0,shape_173
+174,mibus,trip_174,Vía España-Albrook,0,shape_174
+175,mibus,trip_175,Vía España-Bosco Caobos,0,shape_175
+176,mibus,trip_176,VE-Estación Iglesia del Carmen,0,shape_176
+177,mibus,trip_177,Vía España-Bosco Caobos,0,shape_177
+178,mibus,trip_178,Vía España-Bosco Caobos,0,shape_178
+179,mibus,trip_179,Vía España-Albrook,0,shape_179
+180,mibus,trip_180,Corredor Sur-Estación Marañon,0,shape_180
+181,mibus,trip_181,Corredor Sur-Caobos,0,shape_181
+182,mibus,trip_182,Don Bosco-Estación Parador,0,shape_182
+183,mibus,trip_183,Corredor Sur-Estación Marañon,0,shape_183
+184,mibus,trip_184,Corredor Sur-Don Bosco,0,shape_184
+185,mibus,trip_185,Transístmica-Albrook,0,shape_185
+186,mibus,trip_186,Transístmica-Estación Parador,0,shape_186
+187,mibus,trip_187,Estación Parador,0,shape_187
+188,mibus,trip_188,Estación Parador,0,shape_188
+189,mibus,trip_189,Estación Marañon-I (LLano Bonito),0,shape_189
+190,mibus,trip_190,Estación Parador-R (LLano Bonito),0,shape_190
+191,mibus,trip_191,Estación Parador,0,shape_191
+192,mibus,trip_192,Estación Parador,0,shape_192
+193,mibus,trip_193,Felipillo-La Doña,0,shape_193
+194,mibus,trip_194,Corredor Sur-Albrook,0,shape_194
+195,mibus,trip_195,Felipillo-Corredor Sur,0,shape_195
+196,mibus,trip_196,Corredor Sur-Estación Marañon,0,shape_196
+197,mibus,trip_197,Felipillo-Corredor Sur,0,shape_197
+198,mibus,trip_198,Vía España-Albrook,0,shape_198
+199,mibus,trip_199,Vía España-Felipillo,0,shape_199
+200,mibus,trip_200,Vía España-Felipillo,0,shape_200
+201,mibus,trip_201,Vía España-Estación Balboa,0,shape_201
+202,mibus,trip_202,Vía España-La Doña,0,shape_202
+203,mibus,trip_203,Transístmica-Albrook,0,shape_203
+204,mibus,trip_204,Transístmica-La Doña,0,shape_204
+205,mibus,trip_205,Transístmica-Cervercia Nacional,0,shape_205
+206,mibus,trip_206,Transístmica-La Doña,0,shape_206
+207,mibus,trip_207,Transístmica-La Doña,0,shape_207
+208,mibus,trip_208,Tumba Muerto-Albrook,0,shape_208
+209,mibus,trip_209,Tumba Muerto-La Doña,0,shape_209
+210,mibus,trip_210,Tumba Muerto-Cervecería Nacional,0,shape_210
+211,mibus,trip_211,Tumba Muerto-La Doña,0,shape_211
+212,mibus,trip_212,Tumba Muerto-La Doña,0,shape_212
+213,mibus,trip_213,Tumba Muerto-La Doña,0,shape_213
+214,mibus,trip_214,Vía España-Albrook,0,shape_214
+215,mibus,trip_215,Vía España-La Doña,0,shape_215
+216,mibus,trip_216,Vía España-Estación Iglesia del Carmen,0,shape_216
+217,mibus,trip_217,Vía España-La Doña,0,shape_217
+218,mibus,trip_218,Vía España-La Doña,0,shape_218
+219,mibus,trip_219,La Doña-Estación Parador,0,shape_219
+220,mibus,trip_220,Tumba Muerto-Gran Estación,0,shape_220
+221,mibus,trip_221,La Doña-Estación Juan Díaz,0,shape_221
+222,mibus,trip_222,Vía España-Estación Balboa,0,shape_222
+223,mibus,trip_223,Vía España-Mañanitas,0,shape_223
+224,mibus,trip_224,Mañanitas-Estación Parador,0,shape_224
+225,mibus,trip_225,Tumba Muerto-Gran Estación,0,shape_225
+226,mibus,trip_226,Corredor Sur-Albrook,0,shape_226
+227,mibus,trip_227,Corredor Sur-Mañanitas,0,shape_227
+228,mibus,trip_228,Mañanitas-Estación Los Pueblos,0,shape_228
+229,mibus,trip_229,Tumba Muerto-Albrook,0,shape_229
+230,mibus,trip_230,Tumba Muerto-Mañanitas,0,shape_230
+231,mibus,trip_231,Tumba Muerto-Cervecería Nacional,0,shape_231
+232,mibus,trip_232,Tumba Muerto-Mañanitas,0,shape_232
+233,mibus,trip_233,Tumba Muerto-Mañanitas,0,shape_233
+234,mibus,trip_234,Tumba Muerto-Mañanitas,0,shape_234
+235,mibus,trip_235,Tumba Muerto-Estación Marañon,0,shape_235
+236,mibus,trip_236,Tumba Muerto-Mañanitas,0,shape_236
+237,mibus,trip_237,Corredor Sur-Albrook,0,shape_237
+238,mibus,trip_238,Corredor Sur-MañanitaParque,0,shape_238
+239,mibus,trip_239,Corredor Sur-MañanitaParque,0,shape_239
+240,mibus,trip_240,Vía España-Albrook,0,shape_240
+241,mibus,trip_241,Vía España-Mañanitas,0,shape_241
+242,mibus,trip_242,Vía España-Estación Iglesia del Carmen,0,shape_242
+243,mibus,trip_243,Vía España-Mañanitas,0,shape_243
+244,mibus,trip_244,Vía España-Mañanitas,0,shape_244
+245,mibus,trip_245,Tumba Muerto-Albrook,0,shape_245
+246,mibus,trip_246,Vía España-Albrook,0,shape_246
+247,mibus,trip_247,Corredor Sur-Albrook,0,shape_247
+248,mibus,trip_248,Corredor Sur-Parque Real,0,shape_248
+249,mibus,trip_249,CS-Mañanitas,0,shape_249
+250,mibus,trip_250,Corredor Sur-Albrook,0,shape_250
+251,mibus,trip_251,Corredor Sur-Pacora,0,shape_251
+252,mibus,trip_252,Av Balboa-Albrook,0,shape_252
+253,mibus,trip_253,Cinta Costera-Rotonda Panama Viejo,0,shape_253
+254,mibus,trip_254,Av Balboa-Albrook,0,shape_254
+255,mibus,trip_255,Cinta Costera-Albrook,0,shape_255
+256,mibus,trip_256,Av Balboa-Mercado del Marisco,0,shape_256
+257,mibus,trip_257,Cinta Costera-Mercado del Marisco,0,shape_257
+258,mibus,trip_258,Directo-Albrook,0,shape_258
+259,mibus,trip_259,Vía Porras-El Balboa,0,shape_259
+260,mibus,trip_260,Pedregal-Estación Los Pueblos,0,shape_260
+261,mibus,trip_261,Transístmica-Albrook,0,shape_261
+262,mibus,trip_262,Transístmica-Pedregal,0,shape_262
+263,mibus,trip_263,Transístmica-Albrook,0,shape_263
+264,mibus,trip_264,Transístmica-Pedregal,0,shape_264
+265,mibus,trip_265,Transístmica-Cervecería Nacional,0,shape_265
+266,mibus,trip_266,Transístmica-Pedregal,0,shape_266
+267,mibus,trip_267,Transístmica-Estación Marañon,0,shape_267
+268,mibus,trip_268,Transístmica-Pedregal,0,shape_268
+269,mibus,trip_269,Tumba Muerto-Albrook,0,shape_269
+270,mibus,trip_270,Tumba Muerto-Pedregal,0,shape_270
+271,mibus,trip_271,Tumba Muerto-Cervecería Nacional,0,shape_271
+272,mibus,trip_272,Tumba Muerto-Pedregal,0,shape_272
+273,mibus,trip_273,Tumba Muerto-Pedregal,0,shape_273
+274,mibus,trip_274,Corredor Sur-Estación Marañon,0,shape_274
+275,mibus,trip_275,Corredor Sur-Pedregal,0,shape_275
+276,mibus,trip_276,Vía España-Albrook,0,shape_276
+277,mibus,trip_277,Vía España-Pedregal,0,shape_277
+278,mibus,trip_278,Vía España-Estación Iglesia del Carmen,0,shape_278
+279,mibus,trip_279,Vía España-Pedregal,0,shape_279
+280,mibus,trip_280,Vía España-Estación Marañon,0,shape_280
+281,mibus,trip_281,Vía España-Pedregal,0,shape_281
+282,mibus,trip_282,Corredor Norte-Estación Marañon,0,shape_282
+283,mibus,trip_283,Corredor Norte-San Antonio,0,shape_283
+284,mibus,trip_284,San Joaquin Interna,0,shape_284
+285,mibus,trip_285,Transístmica-Albrook,0,shape_285
+286,mibus,trip_286,Transístmica-San Joaquin,0,shape_286
+287,mibus,trip_287,Vía España-Albrook,0,shape_287
+288,mibus,trip_288,Vía España-San Joaquin,0,shape_288
+289,mibus,trip_289,San Pedro Interna,0,shape_289
+290,mibus,trip_290,Directo-Albrook,0,shape_290
+291,mibus,trip_291,Vía España-San Pedro,0,shape_291
+292,mibus,trip_292,Vía España-Estación Balboa,0,shape_292
+293,mibus,trip_293,Vía España-Tocumen,0,shape_293
+294,mibus,trip_294,Transístmica-Albrook,0,shape_294
+295,mibus,trip_295,Tumba Muerto-Albrook,0,shape_295
+296,mibus,trip_296,Corredor Sur-Albrook,0,shape_296
+297,mibus,trip_297,Vía España-Albrook,0,shape_297
+298,mibus,trip_298,Tocumen-Estación Parador,0,shape_298
+299,mibus,trip_299,Tocumen-Super 99 San Miguelito,0,shape_299
+300,mibus,trip_300,Tocumen-Estación Los Pueblos,0,shape_300
+301,mibus,trip_301,Tocumen-Estación Los Pueblos,0,shape_301
+302,mibus,trip_302,Transístmica-Albrook,0,shape_302
+303,mibus,trip_303,Transístmica-Tocumen,0,shape_303
+304,mibus,trip_304,Transístmica-Cervecería Nacional,0,shape_304
+305,mibus,trip_305,Transístmica-Tocumen,0,shape_305
+306,mibus,trip_306,Transístmica-Tocumen,0,shape_306
+307,mibus,trip_307,Transístmica-Tocumen,0,shape_307
+308,mibus,trip_308,Tumba Muerto-Albrook,0,shape_308
+309,mibus,trip_309,Tumba Muerto-Tocumen,0,shape_309
+310,mibus,trip_310,Tumba Muerto-Cervecería Nacional,0,shape_310
+311,mibus,trip_311,Tumba Muerto-Tocumen,0,shape_311
+312,mibus,trip_312,Tumba Muerto-Tocumen,0,shape_312
+313,mibus,trip_313,Corredor Sur-Tocumen,0,shape_313
+314,mibus,trip_314,Corredor Sur-Albrook,0,shape_314
+315,mibus,trip_315,Corredor Sur-Tocumen,0,shape_315
+316,mibus,trip_316,Corredor Sur-Estación Marañon,0,shape_316
+317,mibus,trip_317,Corredor Sur-Tocumen,0,shape_317
+318,mibus,trip_318,Vía España-Albrook,0,shape_318
+319,mibus,trip_319,Vía España-Tocumen,0,shape_319
+320,mibus,trip_320,Vía España-Estación Iglesia del Carmen,0,shape_320
+321,mibus,trip_321,Vía España-Tocumen,0,shape_321
+322,mibus,trip_322,Vía España-Cruce Vista Hermosa,0,shape_322
+323,mibus,trip_323,Vía España-Estación Marañon,0,shape_323
+324,mibus,trip_324,Vía España-Tocumen,0,shape_324
+325,mibus,trip_325,Corredor Sur-Albrook,0,shape_325
+326,mibus,trip_326,Corredor Sur-Estación Marañon,0,shape_326
+327,mibus,trip_327,Directo-Albrook,0,shape_327
+328,mibus,trip_328,Calle 12-Avenida B,0,shape_328
+329,mibus,trip_329,Albrook-Amador,0,shape_329
+330,mibus,trip_330,Marañon-Chorrillo,0,shape_330
+331,mibus,trip_331,Av Omar Torrijos-Ciudad del Saber,0,shape_331
+332,mibus,trip_332,Av La Paz-Betania,0,shape_332
+333,mibus,trip_333,Universidad de Panama-Caja del Seguro Social,0,shape_333
+334,mibus,trip_334,Estación Vía Argentina-Punta Pacífica,0,shape_334
+335,mibus,trip_335,12 de Octubre-Vía España,0,shape_335
+336,mibus,trip_336,Av La Paz-Transistmica,0,shape_336
+337,mibus,trip_337,-Albrook,0,shape_337
+338,mibus,trip_338,Ernesto T Lefevre-Av Balboa,0,shape_338
+339,mibus,trip_339,Albrook-Miraflores,0,shape_339
+340,mibus,trip_340,Vía Brasil-Av Federico Boyd,0,shape_340
+341,mibus,trip_341,T Balboa-Av Martires,0,shape_341
+342,mibus,trip_342,UDELAS-Albrook,0,shape_342
+343,mibus,trip_343,Villa Rica-12 de Octubre,0,shape_343
+344,mibus,trip_344,Corredor Norte-Estación San Isidro,0,shape_344
+345,mibus,trip_345,Corredor Norte-Estación San Isidro,0,shape_345
